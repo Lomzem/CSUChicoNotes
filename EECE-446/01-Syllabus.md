@@ -6,6 +6,7 @@ tags: []
 
 # Personality
 - Likes questions
+- Strongly encourages reading textbook before class
 
 # Contact
 Dr. Kredo
@@ -29,3 +30,6 @@ Office: OCNL 313A
 - Programs 25%
 - Midterm 20%
 - Final Exam 30%
+
+# Exams
+- Look at practice exams
