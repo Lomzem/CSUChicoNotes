@@ -5,7 +5,6 @@ tags: []
 ---
 ``
 # Contact Info
-
 - Office: OCNL 226
 - Office Hours: 11am to Noon Mon/Tues/Wed/Thu
 - Email: ktian@csuchico.edu
@@ -13,7 +12,6 @@ tags: []
 - Phone: 530-898-4449 (not preferred)
 
 # Grading Scheme
-
 - Quizes 5%
 - Labs 10%
 - Projects 15%

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCI-311/02-What is ADS.md",
+                "file": "CSCI-301W/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI-311/02-What is ADS.md",
+                "file": "CSCI-301W/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI-311/02-What is ADS.md",
+                "file": "CSCI-301W/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI-311/02-What is ADS.md"
+                "file": "CSCI-301W/Syllabus.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a28170e44e20d81b",
   "lastOpenFiles": [
+    "CSCI-301W/abram",
+    "CSCI-301W/missing-day",
+    "CSCI-301W/Syllabus.md~",
     "311/Syllabus.md"
   ]
 }
