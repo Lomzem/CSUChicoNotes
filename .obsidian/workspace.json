@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EECE-446/02-Lecture-1.md",
+                "file": "CSCI-311/03-Insert-Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EECE-446/02-Lecture-1.md",
+                "file": "CSCI-311/03-Insert-Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EECE-446/02-Lecture-1.md",
+                "file": "CSCI-311/03-Insert-Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EECE-446/02-Lecture-1.md"
+                "file": "CSCI-311/03-Insert-Sort.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a28170e44e20d81b",
   "lastOpenFiles": [
+    "CSCI-311/03-Insert-Sort.md~",
     "CSCI-301W/abram",
     "CSCI-301W/missing-day",
     "CSCI-301W/Syllabus.md~",
