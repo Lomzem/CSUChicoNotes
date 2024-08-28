@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCI-311/03-Insert-Sort.md",
+                "file": "RELS-110/01-Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI-311/03-Insert-Sort.md",
+                "file": "RELS-110/01-Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI-311/03-Insert-Sort.md",
+                "file": "RELS-110/01-Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI-311/03-Insert-Sort.md"
+                "file": "RELS-110/01-Syllabus.md"
               }
             }
           }
