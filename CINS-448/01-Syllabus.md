@@ -26,12 +26,13 @@ tags: []
 # In-class Quizzes
 - Closed note
 - Lowest 3 in-class quiz grades dropped
+- One attempt
 
 ## Monday
 Covers recorded lecture from Sunday
 
 ## Wednesday
-Covers labs from prior weeks
+Covers labs from prior weeks (labs)
 
 # Final
 - Comprehensive

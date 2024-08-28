@@ -4,6 +4,8 @@ aliases: []
 tags: []
 ---
 
+Is an [[02-What is ADS.md##What is an algorithm?]]
+
 # Basic Directions
 
 1. Start at 1th index. Check if 1th < 0th. If yes, flip them.
