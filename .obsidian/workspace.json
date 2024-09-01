@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RELS-110/01-Syllabus.md",
+                "file": "CINS-448/04-cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RELS-110/01-Syllabus.md",
+                "file": "CINS-448/04-cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RELS-110/01-Syllabus.md",
+                "file": "CINS-448/04-cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RELS-110/01-Syllabus.md"
+                "file": "CINS-448/04-cryptography.md"
               }
             }
           }
