@@ -50,3 +50,12 @@ $n(n-1)/2$
 - Use symmetric key cryptography to encrypt a long msg
 - Use asymmetric key cryptography to exchange the symmetric key used in the encryption process
 - Instead of asymmetric on the msg, asymmetric on the symmetric key
+
+# Asymmetric Key Cryptography Algorithm
+- First invented by researchers in the British military but unclassified recently
+- James Ellis was cryptographer credited with creation, unable to implement idea
+- Clifford Cocks created RSA encryption alg w/Ellis' idea
+- Considered the **most important advance in cryptography** in the past 2000 years
+
+# One-Way Function
+- Fxn which enormous difference in time required to perform the function itself compared to how quickly you can perform its inverse
