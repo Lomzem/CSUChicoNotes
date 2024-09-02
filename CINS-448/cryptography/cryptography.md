@@ -26,9 +26,9 @@ Take **plaintext**, turn it into **ciphertexts** using a **key** to run it throu
 
 # Classical cryptosystem (Single-key, Symmetric)
 - Use one key to both encrypt and decrypt
+- See: [[asymmetric-cryptography#Problems with Symmetric Cryptography|Problems with Symmetric Cryptography]]
 - Example: Caesar's cipher
 
 # Two types of classical ciphers
 1. [[transposition#Transposition|Transposition]]
 2. [[substitution#Substitution Cipher|Substitution]]
-
