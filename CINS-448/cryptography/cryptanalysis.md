@@ -37,3 +37,9 @@ tags: []
 - Make assumptions about statistics of the plaintext language
 - Assumptions are also called "the model"
 - Examine the ciphertext to correlate its properties with the assumptions
+
+# Substitution and Transposition to Easy to Crack?
+- [[Substitution]] and [[transposition]] do not disguise linguistic patterns of letters and word freq
+
+## Solution
+- Use both [[substitution]] and [[transposition]] together

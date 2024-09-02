@@ -10,7 +10,7 @@ tags: []
 
 ## Substitution Cipher Examples
 - [[caesar-cipher#Caesar Cipher|Caesar Cipher]]
-- Vigenere cipher
+- [[vigenere-cipher#Vigenere Cipher|Vigenere Cipher]]
 - One-time pad
 
 # Attacking a Substitution Cipher
@@ -34,4 +34,5 @@ tags: []
 - W x 3
 - D x 3
 
-- What letter do you expect to appear the most in plaintext?
+- What letter do you expect to appear the most in plaintext? E or T
+- Substitute "E" for "H" then for "W" then for "D"
