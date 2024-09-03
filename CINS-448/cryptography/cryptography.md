@@ -6,6 +6,8 @@ tags: []
 
 # Cryptography
 - "secret writing" in Greek
+
+#definition/cins
 - **plaintext**: useful information before scrambled
 - **ciphertext**: useful info after scrambled
 
