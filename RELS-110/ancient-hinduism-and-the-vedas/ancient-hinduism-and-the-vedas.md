@@ -65,11 +65,57 @@ tags: []
 - But: DNA evidence of migration starting around 1500 BCE
 - Could be from Iran, Central Eurasian warriors, Kurgans
 
-## Definite Linguistic and Religious Influence from Indo-Europeans
+# Definite Linguistic and Religious Influence from Indo-Europeans
 
-### Vedic Religion:
+## Vedic Religion:
 - Father God (Dyaus), associated with sky, very similar to Zeus
 - Both Vedic religion and ancient Greco-Roman religion very this-wordly oriented; both start off with very little attention to an afterlife
 - Goal: success in this life (fertile fields, children, good health, wealth)
 - Like other ancient religions, most Gods and Goddesses are seen as embodiment of natural forces
 - Most of religion: sacrificial offerings to ask the gods for help (also common in other ancient religions like Judaism and Greco-Roman)
+
+## Most Important Vedic God
+- Agni, God of fire, transmits all sacrifices to heavenly realm
+
+Fundamental Ritual:
+- Yajna (fire) sacrifices in ancient India included meat, ghee, flowers, and food in sacred fire
+
+# What are the Vedas?
+- Usually called "scriptures" or "sacred texts," but actually weren't written down for hundreds of years later
+- Memorized, sung, or recited
+- Believed by Hindus to reflect fundamental fabric of universe, transmitted as sound and revealed to rishis (wise ones) in ancient times, so preserving their correct sound is important
+- Pronunciation is important
+
+# The Vedas
+- 1500 - 600 BCE
+
+1. Rig Veda (oldest)
+2. Sama Veda
+3. Yajur Veda
+4. Atharva Veda
+
+- Each is a collection of works: mantras, kirtan, sacrificial rituals to be performed by brahmins, and Upanishads
+
+#definition/rels
+mantras: type of sacred sound that is repeated
+- Example: Om
+
+#definition/rels
+kirtan: hymes to Gods
+
+#definition/rels
+brahmins: priests
+
+#definition/rels
+Upanishads: philosophical reflections on the hymns and rituals
+
+# Goal of Life in Ancient Hinduism
+- Prosperity, health, lots of sons, followed by entering the abode of the ancestors
+- Following your Dharma (at the time means social duty) and performing sacrifices achieved this
+- After death, judged by Yama, king of the dead
+
+# Vedic vs Later Hinduism
+- Vedas focuses more on this world
+- Not a lot of attention to afterlife
+- At end of Vedic period, concept of heaven where ancestors live (pitrloka) you could join if follow your dharma and if children perform proper rituals (cremation to Agni and shradda rites)
+- With Upanishadic period (500 BCE) dharma, karma, and afterlife change significantly
