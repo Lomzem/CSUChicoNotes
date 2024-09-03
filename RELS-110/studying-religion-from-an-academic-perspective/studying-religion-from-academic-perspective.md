@@ -28,7 +28,7 @@ worldview: a comprehensive meaning system that explains the origins of the world
 - Many Asian religions believe in reincarnation
 - Example: wheel of samsara (rebirth cycle)
 - Time is circular
-- In Hinduism, every universe cycle has a beginning and end, but end of a universe cycle generates beginning of another one
+- In [[ancient-hinduism-and-the-vedas#What is Hinduism?|Hinduism]], every universe cycle has a beginning and end, but end of a universe cycle generates beginning of another one
 - Goal of many Asian religions is to escape rebirth cycle
 
 # Vocabulary for Studying Religion
@@ -82,4 +82,4 @@ Pantheism: Belief that the divine is in everything
 #definition/rels
 Avatars: God who takes on a human form
 - Ex: Jesus is God incarnate (made flesh)
-- Ex: In Hinduism God Vishnu takes on human avatars of Krishna (god of love) and Rama (great hero of epic poem Ramayana)
+- Ex: In [[ancient-hinduism-and-the-vedas#What is Hinduism?|Hinduism]] God Vishnu takes on human avatars of Krishna (god of love) and Rama (great hero of epic poem [[ramayana|Ramayana]])
