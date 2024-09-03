@@ -26,7 +26,7 @@ worldview: a comprehensive meaning system that explains the origins of the world
 # Asian Beliefs of Time
 - Many Western religions believe time moves linearly from creation to end
 - Many Asian religions believe in reincarnation
-- Example: wheel of samsara (rebirth cycle)
+- Example: [[ancient-hinduism-and-the-vedas#Vedantic (Upanishadic) Hinduism|wheel of samsara (rebirth cycle)]]
 - Time is circular
 - In [[ancient-hinduism-and-the-vedas#What is Hinduism?|Hinduism]], every universe cycle has a beginning and end, but end of a universe cycle generates beginning of another one
 - Goal of many Asian religions is to escape rebirth cycle
