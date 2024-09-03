@@ -7,6 +7,9 @@ tags: []
 Updated: Mon 9/2
 
 # Do TODAY / Current Tasks
+- [ ] Tue 9/3: RELS-110 Reading - Smiths
+- [ ] Tue 9/3: RELS-110 Reading - Excerpts
+- [ ] Tue 9/3: RELS-110 Lecture - Ancient Hinduism
 - [ ] Tue 9/3: RELS-110 Lecture 1 Quiz
 - [ ] Tue 9/3: CSCI-301W Reading CH2 + Notes
 - [ ] Tue 9/3: LTC Website Committee 6pm
