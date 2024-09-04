@@ -7,7 +7,7 @@ tags: []
 Updated: Mon 9/2
 
 # Do TODAY / Current Tasks
-- [ ] Tue 9/3: CSCI-301W Reading CH2 + Notes
+- [x] Tue 9/3: CSCI-301W Reading CH2 + Notes
 - [ ] Tue 9/3: LTC Website Committee 6pm
 - [ ] Tue 9/3: IEEE Workshop
 

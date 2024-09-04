@@ -11,12 +11,8 @@
             "id": "a28170e44e20d81b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CINS-448/04-cryptography.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CINS-448/04-cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CINS-448/04-cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CINS-448/04-cryptography.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "a28170e44e20d81b",
   "lastOpenFiles": [
+    "RELS-110/studying-religion-from-an-academic-perspective/studying-religion-from-academic-perspective.md",
     "CSCI-311/03-Insert-Sort.md~",
     "CSCI-301W/abram",
     "CSCI-301W/missing-day",
