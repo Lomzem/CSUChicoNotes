@@ -9,7 +9,7 @@ tags: []
 - Doesn't use a 1:1 relationship between each letter and substitute
 - Offset is based on a table
 
-# Cigenere Cipher Table
+# Vigenere Cipher Table
 - Each row corresponds to a Caesar cipher
 - 1st row is shift of 0
 - 2nd is a shift of 1
@@ -46,7 +46,7 @@ A PCOJ HTMV RZX WLQKI YAYE
 2. Use keyword letter to pick a column of the table, and then trace down column to the row containing the ciphertext letter
 
 - Use keyword to find column
-- Go down until you find ciphertext
+- Go down until you find ciphertext (intersection)
 - Row is plaintext
 
 # Weakness in Vigenere Cipher
