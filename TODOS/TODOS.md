@@ -20,6 +20,9 @@ Updated: Mon 9/2
 - [ ] Sat 9/7: LTC Carne Asada Social 6pm
 
 # Do Next Week
+- Sun 9/8: CINS - Cryptography Lab
+- Sun 9/8: CINS - CyberChef
+- Sun 9/8: CINS - John Lab
 - [ ] Mon 9/9: RELS-110 Reply
 
 # Do Eventually...
