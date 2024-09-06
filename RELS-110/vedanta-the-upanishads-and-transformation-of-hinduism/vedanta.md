@@ -38,3 +38,30 @@ tags: []
 - When does universe begin/end?
 - What is purpose of life?
 - Expanded notion of space and time
+- Concept of reincarnation
+
+## New Understandings of Life and Death
+
+#definition/rels
+### Karma
+"action": cosmic law of cause and effect. If you perform your dharma, you will attain a higher rebirth
+
+#definition/rels
+### Samsara
+cycle of rebirth/reincarnation
+
+#definition/rels
+### Dharma
+not just social duties connected to sacrificial offerings but the whole cosmic law/cosmic order of the universe
+
+# Goal of Vedantic Hinduism
+#definition/rels
+- Gain moksha: liberation from cycle of samsara by realizing true nature of reality
+
+#definition/rels
+- Live life of asceticism and meditation to gain knowledge of your true self (Atman)
+
+#definition/rels
+- This pathway to moksha is called jnana yoga
+- Yoga: discipline/path
+- Jnana: knowledge
