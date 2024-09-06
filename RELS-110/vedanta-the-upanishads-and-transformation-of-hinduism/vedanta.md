@@ -17,6 +17,7 @@ tags: []
 - 500 BCE onward
 #definition/rels
 - Upanishads: last of the Vedas to be written, around 500 BCE
+- Upanishad: sit down next to in Sanskrit
 - Upanishads; meaning of life; escape from world
 - Axial Age?? 700-300 BCE
 - Worldwide transformation in religions
@@ -36,3 +37,4 @@ tags: []
 - What comes after death?
 - When does universe begin/end?
 - What is purpose of life?
+- Expanded notion of space and time
