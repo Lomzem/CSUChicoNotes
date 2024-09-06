@@ -33,3 +33,6 @@ tags: []
 - Questions ritual and purpose of ritual
 - Why do gods want sacrifices?
 - Aren't internal sacrifices better than physical offerings?
+- What comes after death?
+- When does universe begin/end?
+- What is purpose of life?
