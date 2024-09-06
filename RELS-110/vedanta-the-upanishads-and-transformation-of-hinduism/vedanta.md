@@ -66,3 +66,4 @@ not just social duties connected to sacrificial offerings but the whole cosmic l
 - Yoga: discipline/path, synonyms with asceticism (Greekc)
 - Jnana: knowledge
 - Give up your desires
+GOT TO 16:56
