@@ -66,4 +66,45 @@ not just social duties connected to sacrificial offerings but the whole cosmic l
 - Yoga: discipline/path, synonyms with asceticism (Greekc)
 - Jnana: knowledge
 - Give up your desires
-GOT TO 16:56
+
+# Path to Moksha in Jnana Yoga
+- Intense study
+#definition/rels
+- Strict moral code, ahimsa (not harming other beings) and giving  up desires (fasting/celibacy)
+#definition/rels
+- Renounce the world (a sannyasin is one who does this)
+- Meditative practices to attain knowledge of the Atman and its oneness with Brahman
+- Eliminate all karma residue making up the jiva (sheath) and separating Atman and Brahman
+
+# Atman
+- True self
+- Beyond externals of body, senses, personality
+- Stays the same from life to life
+- Can be known through yoga (discipline)
+- Kind of like "soul" but different
+
+The Katha Upanishad says the Atman is "beyond sound and form, without taste and touch and perfume. It is eternal, unchangeable, and without beginning or end; indeed, above reasoning. When consciousness of the Atman manifests itself, man becomes free from the jaws of death"
+
+# Nature of Ultimate Reality
+#definition/rels
+- Universe seems to be full of countless beings but is a misperception based on maya (illusion)
+- Ultimately all of reality is made up of Brahman, the spiritual oneness underlying all things; the ultimate reality
+- On a fundamental level, your true self (Atman) is identical with Brahman
+- "This in truth is that"
+
+# Hindu Concept of the Person: Chariot Metaphor
+We are made of 5 components:
+1. Body (chariot)
+2. Senses (horses)
+3. Reason/Intellect (buddhi) (charioteer)
+4. Mind/consciousness (reins)
+5. Atman, true self, rest changes from life to life (rider)
+
+#definition/rels
+Purusha: synonym for Brahman
+
+#definition/rels
+preya: path of pleasure
+
+#definition/rels
+shreya: path that is beneficial
