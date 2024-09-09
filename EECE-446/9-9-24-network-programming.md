@@ -13,6 +13,8 @@ tags: []
 - socket is not a data structure, it's a conceptual piece of data
 - definition of socket is OS dependent
 - identified by file descriptor (**socket descriptor**), int identifier
+- OS takes care of packet loss
+- holds data from socket in socket memory until socket is closed
 
 ## Client/Server Model
 - multithreaded client handling
@@ -55,3 +57,4 @@ int recv(int sfd, void* buf, size_t len, int flags);
 `param: len` count of bytes to send/receive
 `param: flag` usually just do `0`
 `returns` how many bytes actually sent/received
+
