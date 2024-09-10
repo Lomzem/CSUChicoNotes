@@ -8,12 +8,12 @@ Updated: Tue 9/10
 
 # Do TODAY / Current Tasks
 - [x] 9/10 301W RAw3p1
-- [ ] 9/10 Study 448 a little
+- [ ] 9/11 RELS Reading
 - [ ] 9/10 3PM MESA Resume
+- [ ] 9/10 Study 448 a little
 
 # Do This Week
 - [ ] 9/11 301W RAw3p2
-- [ ] 9/11 RELS Reading
 - [ ] 9/12 RELS Post
 - [ ] 9/12 448 Labs
 - [ ] 9/13 301W RAw4p1
