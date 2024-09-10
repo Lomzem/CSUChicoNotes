@@ -17,3 +17,9 @@ not causing harm to other living things
 
 # Iavara
 a generic term of deity
+
+# theistic
+relating to or characterized by belief in the existence of a god or gods
+
+# samyama
+combined practice of concentration, meditation, and union
