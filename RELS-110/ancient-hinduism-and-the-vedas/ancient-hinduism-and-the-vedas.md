@@ -31,7 +31,7 @@ tags: []
 - 500 BCE onward
 - Vedanta means "the end of the Vedas"
 - Upanishads as the last of the ancient sacred texts
-- Vedanta developed concepts of [[studying-religion-from-academic-perspective#Asian Beliefs of Time|reincarnation and cycle of Samsara
+- Vedanta developed concepts of [[studying-religion-from-academic-perspective#Asian Beliefs of Time|reincarnation]] and cycle of Samsara
 
 ## Devotional (Bhakti) Hinduism
 - 500 CE onward
