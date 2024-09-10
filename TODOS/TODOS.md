@@ -7,30 +7,33 @@ tags: []
 Updated: Mon 9/2
 
 # Do TODAY / Current Tasks
-- [x] Tue 9/3: CSCI-301W Reading CH2 + Notes
-- [ ] Tue 9/3: LTC Website Committee 6pm
-- [ ] Tue
-- [ ] Tue 9/3: IEEE Workshop
+- [ ] 9/10 301W RAw3p1
+- [ ] 9/10 Study 448 a little
+- [ ] 9/10 3PM MESA Resume
 
 # Do This Week
-- [ ] Tue 9/3: Study CINS-448 Quiz
-- [ ] Wed 9/4: CSCI-301W Writing Outline
-- [ ] Fri 9/6: CSCI-301W Writing 1
-- [ ] Fri 9/6: RELS-110 Discussion
-- [ ] Fri 9/6: ACM Meeting 4pm
-- [ ] Sat 9/7: LTC Carne Asada Social 6pm
+- [ ] 9/11 301W RAw3p2
+- [ ] 9/11 RELS Reading
+- [ ] 9/12 RELS Post
+- [ ] 9/12 448 Labs
+- [ ] 9/13 301W RAw4p1
+- [ ] 9/13 448 Videos
+- [ ] 9/14 RELS Quiz
+- [ ] 9/14 311 HW2
+- [ ] 9/15 Study 448 Videos a little
 
 # Do Next Week
-- Sun 9/8: CINS - Cryptography Lab
-- Sun 9/8: CINS - CyberChef
-- Sun 9/8: CINS - John Lab
-- [ ] Mon 9/9: RELS-110 Reply
 
 # Do Eventually...
-- [ ] Tue 9/3: RELS-110 Reading - Smiths
-- [ ] Tue 9/3: RELS-110 Reading - Excerpts
 
 # Completed
-- [x] Tue 9/3: RELS-110 Lecture 1 Watch + Notes
-- [x] Tue 9/3: RELS-110 Lecture - Ancient Hinduism
-- [x] Tue 9/3: RELS-110 Lecture 1 Quiz
+
+# Club Activities
+- [ ] 9/11 5PM Tech Project Club Meeting
+- [ ] 9/11 5:30PM ASU Meeting
+- [ ] 9/11 LTC SHPE Membership Deadline
+- [ ] **9/11 6PM UPE Zoom**
+- [ ] 9/12 5PM Hmong Student Association
+- [ ] 9/12 5PM Resume Workshop cd
+- [ ] 9/13 9AM Investing Club Meeting
+- [ ] 9/13 4PM ACM Meeting
