@@ -26,3 +26,9 @@ combined practice of [[yoga-technique#6. Dharana|Dharana]], [[yoga-technique#7. 
 
 # enstasis
 opposite of ecstasy
+
+# purusha
+Soul, Brahman
+
+# buddhi
+intelligence

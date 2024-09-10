@@ -55,3 +55,8 @@ prolonged concentration on the object thus comprehended
 # 8. Samadhi
 "[[vocab-raja-yoga#enstasis|enstasis]]"
 total identification of the mental process with the object; total coincidence between the knowledge of the object and the object of knowledge
+
+Two types:
+1) With the object of meditation: one realizes the difference between purified consciousness and the [[vocab-raja-yoga#purusha|Soul/purusha]]. Attained at fruit of human effort. Liberation is **not** reached
+
+2) Without an object of meditation: mental flux caused by [[vocab-raja-yoga#buddhi|buddhi]] is destroyed. Total rupture of planes--transcendence of ordinary consciousness. **Not** fruit of action: just happens, unprovoked. Experience constitutes liberation
