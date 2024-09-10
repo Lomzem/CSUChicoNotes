@@ -4,10 +4,10 @@ aliases: []
 tags: []
 ---
 
-Updated: Mon 9/2
+Updated: Tue 9/10
 
 # Do TODAY / Current Tasks
-- [ ] 9/10 301W RAw3p1
+- [x] 9/10 301W RAw3p1
 - [ ] 9/10 Study 448 a little
 - [ ] 9/10 3PM MESA Resume
 
