@@ -22,4 +22,7 @@ a generic term of deity
 relating to or characterized by belief in the existence of a god or gods
 
 # samyama
-combined practice of concentration, meditation, and union
+combined practice of [[yoga-technique#6. Dharana|Dharana]], [[yoga-technique#7. Dhyana|Dhyana]], and [[yoga-technique#8. Samadhi|Samadhi]]
+
+# enstasis
+opposite of ecstasy

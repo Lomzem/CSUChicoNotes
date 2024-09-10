@@ -40,3 +40,18 @@ onepointedness on the physical plane; reduces physical effort and allows long pe
 # 4. Pranayama
 "breathing"
 the control of **breathing**: recognizes the influence of psychosomatic functions on breathing and vice versa; induces calm and helps concentration
+
+# 5. Pratyahara
+withdrawal of senses from the objects of sensation. The object is now internalized; i.e.known without the presence of the external object. Removes one of the greatest sources of distraction--the senses
+
+# 6. Dharana
+"concentration"
+total comprehension of the object of meditation
+
+# 7. Dhyana
+"meditation"
+prolonged concentration on the object thus comprehended
+
+# 8. Samadhi
+"[[vocab-raja-yoga#enstasis|enstasis]]"
+total identification of the mental process with the object; total coincidence between the knowledge of the object and the object of knowledge
