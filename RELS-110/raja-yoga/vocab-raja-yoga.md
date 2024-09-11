@@ -56,3 +56,6 @@ No being greedy/having few possessions
 
 # brahmacharya
 No sex
+
+# Patanjali
+person to whom Raja yoga is attributed
