@@ -45,3 +45,26 @@ Must follow them **in their order**, or it won't work (meditation practices)
 
 8) Samadhi (absorbed concentration)
 - Total overcoming of external world; total fusion of perception with what is perceived; overcoming reasoning or reflection, just the tranquility of the settled mind. The sattvic (pure) mind is only aware of its own joy. Focus on inner powers of perception and within mind itself. Known as "blissful" Samadhi filled with joyful peace. Mental flux overcome and liberation is achieved
+- Samadhi is not knowledge or even ordinary experience
+- Not dual form of perception
+
+# Later Styles of Yoga
+
+## Hatha Yoga
+- Hatha means force
+- Sometimes catch-all name for all yoga w/physical postures
+- One of the oldest styles
+- First brought to US in 1920s
+
+## Ashtanga
+- set of series of sequences of asanas that flow in order
+- more challenging than Hatha
+
+## Vinyasa
+- flowing yoga
+- sequence to sequence
+- breath linked to movement
+- doesn't focus on specific poses very much
+
+## Lyengar
+- emphasises precision and alignment in asanas
