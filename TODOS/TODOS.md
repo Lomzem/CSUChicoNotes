@@ -4,16 +4,16 @@ aliases: []
 tags: []
 ---
 
-Updated: Tue 9/10
+Updated: Wed 9/11
 
 # Do TODAY / Current Tasks
-- [ ] 9/10 Study 448 a little
-- [ ] 9/11 RELS Reading
+- [x] 9/10 Study 448 a little
+- [x] 9/11 RELS Reading
 - [ ] 9/11 301W RAw3p2
-- [ ] 9/14 311 HW2
+- [ ] 9/12 RELS Post
 
 # Do This Week
-- [ ] 9/12 RELS Post
+- [ ] 9/12 311 HW2
 - [ ] 9/12 448 Labs
 - [ ] 9/13 301W RAw4p1
 - [ ] 9/13 448 Videos
