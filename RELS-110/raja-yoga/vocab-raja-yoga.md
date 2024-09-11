@@ -7,7 +7,16 @@ tags: []
 #definition/rels
 
 # yoga
-"restraint," "discipline," and "meditational technique"
+"restraint," "discipline," "path," and "meditational technique"
+
+# jnana yoga
+path of knowledge
+
+# karma yoga
+path of action
+
+# bhakti yoga
+path of devotion to a god/dess
 
 # ekagrata
 "one-pointed-ness," to focus all of one's energies--moral, physical, and mental--**on one point**
