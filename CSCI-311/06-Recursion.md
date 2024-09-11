@@ -28,3 +28,9 @@ $T(n) = $ time it takes to complete a call
 2) Prove back guess for recursive case
 3) Prove for base case
 4) Conclusion
+
+# Recursion Trees
+1) Draw tree representing how prob splits into subprobs
+2) Note time req for each subprob
+3) Add up time req for all subprob
+4) Recursino tree is not a proof
