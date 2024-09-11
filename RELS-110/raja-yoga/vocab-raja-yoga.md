@@ -41,3 +41,18 @@ Soul, Brahman
 
 # buddhi
 intelligence
+
+# prakriti
+matter
+
+# Monism
+everything is at its root, one, example: [[vedanta#Nature of Ultimate Reality|Brahman]]
+
+# Dualism
+two things exist that are in opposition to each other
+
+# aparigraha
+No being greedy/having few possessions
+
+# brahmacharya
+No sex

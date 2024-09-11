@@ -63,7 +63,7 @@ not just social duties connected to sacrificial offerings but the whole cosmic l
 
 #definition/rels
 - This pathway to moksha is called jnana yoga
-- Yoga: discipline/path, synonyms with asceticism (Greekc)
+- Yoga: discipline/path, synonyms with asceticism (Greek)
 - Jnana: knowledge
 - Give up your desires
 
