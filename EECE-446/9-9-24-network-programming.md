@@ -58,3 +58,20 @@ int recv(int sfd, void* buf, size_t len, int flags);
 `param: flag` usually just do `0`
 `returns` how many bytes actually sent/received
 
+# C Strings
+Not a string, is arr of ASCII chars with null terminator:
+```c
+char buf[50];
+```
+Be **cautious** w/string functions
+
+Strings aren't strings without a null terminator
+
+# Packets
+Our packets are going to be `char[]`
+
+Use `memcpy` to move data into packets
+
+# Debugging Tools
+- gdb
+- wireshark
