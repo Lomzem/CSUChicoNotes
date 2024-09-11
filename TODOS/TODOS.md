@@ -10,6 +10,7 @@ Updated: Wed 9/11
 - [x] 9/10 Study 448 a little
 - [x] 9/11 RELS Reading
 - [ ] 9/11 Read EECE Material
+- [ ] 9/11 gdb
 - [ ] 9/11 301W RAw3p2
 - [ ] 9/11 RELS Post
 
