@@ -7,16 +7,14 @@ tags: []
 Updated: Wed 9/11
 
 # Do TODAY / Current Tasks
-- [x] 9/10 Study 448 a little
-- [x] 9/11 RELS Reading
 - [ ] 9/11 Read EECE Material (page + lab 3)
+- [ ] 9/12 301W RAw3p2
 - [ ] 9/11 gdb
-- [ ] 9/11 301W RAw3p2
-- [ ] 9/11 RELS Post
+- [ ] 9/13 311 HW2
+- [ ] 9/13 448 Labs
 
 # Do This Week
-- [ ] 9/12 311 HW2
-- [ ] 9/12 448 Labs
+- [ ] 9/13 RELS Post
 - [ ] 9/13 301W RAw4p1
 - [ ] 9/13 448 Videos
 - [ ] 9/14 RELS Quiz
