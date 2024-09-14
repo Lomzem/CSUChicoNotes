@@ -7,9 +7,9 @@ tags: []
 Updated: Wed 9/11
 
 # Do TODAY / Current Tasks
-- [ ] 9/11 Read EECE Material (page + lab 3)
 - [ ] 9/12 301W RAw3p2
-- [ ] 9/11 gdb
+- [ ] 9/12 gdb
+- [x] 9/13 301W Peer Review
 - [ ] 9/13 311 HW2
 - [ ] 9/13 448 Labs
 
@@ -19,6 +19,7 @@ Updated: Wed 9/11
 - [ ] 9/13 448 Videos
 - [ ] 9/14 RELS Quiz
 - [ ] 9/15 Study 448 Videos a little
+- [ ] 9/15 RELS Peer Review
 
 # Do Next Week
 
