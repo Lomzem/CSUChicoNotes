@@ -6,14 +6,49 @@ tags: []
 
 # Protocols & Ports
 
+## TCP/IP
+- Not a single protocol, suite of protocols
+- Transmission Control Protocol
+
+### TCP Three-Way Handshake
+- Client sends SYN
+- Server sends SYN/ACK
+- Client sends ACK
+- Client ports: 49,152 - 65,535
+- Server ports: 1- 49,151
+
+## UDP
+- User Datagram Protocol
+- Sends data as fast as possible
+- Lots of loss
+- Client doesn't know if server is receiving
+- Example of UDP: [[protocols-ports#ICMP|ICMP]]
+
+## ICMP
+- Internet Control Message Protocol
+- Used to test basic connectivity
+- Example: `ping`
+
 ## HTTP
 - Hypertext Transfer Protocol
 - Port 80
 
+# Encryption Protocols
+
+## SSH
+- Secure Shell
+- Encrypts wide variety of traffic
+- Secure Copy (SCP)
+- Secure File Transfer Protocol ([[protocols-ports#SFTP|SFTP]])
+- Uses TCP Port 22
+
 ## HTTPS
 - Hypertext Transfer Protocol Secure
-- Port 443
+- **Port 443**
 - Encrypted with TLS
+
+# SSL (Replaced with TLS)
+- Browser encryption
 
 ## FTP
 - Port 20 for data

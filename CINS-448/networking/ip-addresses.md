@@ -4,6 +4,23 @@ aliases: []
 tags: []
 ---
 
+# IPv4
+- 32 bits
+- binary
+
+## Network Designation
+If a slash follows an IPv4 address, it designates how many bits of the IPv4 (from the left) represents the network part (the rest represent the host part)
+
+# IPv6
+- 128 bits
+- hexadecimal
+- Uses IPSec (built-in security)
+
+## IPSec
+- Method of encrypting VPN traffic
+- Native with IPv6
+- Also works with IPv4
+
 # Private Address Range
 
 | Class | Private Address Range |

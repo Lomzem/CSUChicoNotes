@@ -1,0 +1,17 @@
+1) Which of the following identifies the stages of the three-way handshake?
+=> SYN, SYN/ACK, ACK
+
+2) An IPv4 address is comprised of _____ bits.
+=> 32
+
+3) Which one of the following is a public, not a private, IP address?
+A. 10.12.3.4
+B. 73.48.92.16
+C. 192.168.42.42
+=> B
+
+4) An IPv6 address is comprised of _____ bits
+=> 128
+
+5) Ping uses the ____ protocol
+=> ICMP (Internet Control Message Protocol)
