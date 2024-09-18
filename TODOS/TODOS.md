@@ -4,17 +4,28 @@ aliases: []
 tags: []
 ---
 
-Updated: Wed 9/11
+Updated: Wed 9/18
 
 # Do TODAY / Current Tasks
-- [x] 9/16 RELS Peer Review
-- [ ] 9/16 RELS Reading
-- [ ] 9/16 RELS Videos
-- [ ] 9/16 RELS Quiz
-- [ ] 9/17 311 HW2
+- [ ] 9/18 Pack line paper
 
 # Do This Week
-- [ ] 9/19 Pack line paper
+
+## Thursday
+- [ ] 9/19 RELS Discussion [Canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450) 
+- [ ] 9/19 CINS Labs
+
+## Friday
+- [ ] 9/20 EECE Program 1
+
+## Saturday
+- [ ] 9/21 RELS Lectures
+- [ ] 9/21 RELS Quiz
+
+## Sunday
+- [ ] 9/22 301W RAw5p1
+- [ ] 9/22 CINS Lectures [Canvas](https://canvas.csuchico.edu/courses/35056/assignments/481409) 
+
 
 # Do Next Week
 
