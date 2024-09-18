@@ -44,6 +44,9 @@ Destroys universe cycle
 - Ascetic and family man
 - Associated with goddess Parvati and god Ganesha
 
+## Shakti
+Sometimes Shiva is depicted with Shakti (goddess) who is embodiment of energy of universe (Brahman)
+
 ## Shaivism
 Centered around Shiva, his wife Parvati, their son Ganesha
 
@@ -56,9 +59,11 @@ Centered around Shiva, his wife Parvati, their son Ganesha
 - Stands of asura (demon) Apamasa, who symbolizes ignorance
 - Vyomakesha is his flying hair, represents unfolding of space
 - Dance of creation
+- Shiva lingam in yonic base represents union of male and female
 
 # Devi Worship
 "great Goddess"
 - Worship of local village goddesses
+    - Each local goddess is associated with the earth of that village
 - Worship of sacred rivers
 - Worship of goddesses lke Durga, Kali, Saraswati, Laksmi, etc.
