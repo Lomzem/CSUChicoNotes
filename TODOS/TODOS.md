@@ -12,19 +12,20 @@ Updated: Wed 9/18
 # Do This Week
 
 ## Thursday
-- [ ] 9/19 RELS Discussion [Canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450) 
-- [ ] 9/19 CINS Labs
+- [ ] RELS Discussion [Canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450) 
+- [ ] CINS Labs
+- [ ] EECE Program 1
 
 ## Friday
-- [ ] 9/20 EECE Program 1
+- [ ] RELS Lectures
+- [ ] RELS Quiz
 
 ## Saturday
-- [ ] 9/21 RELS Lectures
-- [ ] 9/21 RELS Quiz
+- [ ] RELS Discussion Reply
+- [ ] 301W RAw5p1
 
 ## Sunday
-- [ ] 9/22 301W RAw5p1
-- [ ] 9/22 CINS Lectures [Canvas](https://canvas.csuchico.edu/courses/35056/assignments/481409) 
+- [ ] CINS Lectures [Canvas](https://canvas.csuchico.edu/courses/35056/assignments/481409) 
 
 
 # Do Next Week
