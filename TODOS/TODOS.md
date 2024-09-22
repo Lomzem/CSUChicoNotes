@@ -7,25 +7,22 @@ tags: []
 Updated: Wed 9/18
 
 # Do TODAY / Current Tasks
-- [ ] 9/18 Pack line paper
+- [ ] Pack line paper
 
 # Do This Week
 
-## Thursday
-- [ ] RELS Discussion [Canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450) 
-- [ ] CINS Labs
-- [ ] EECE Program 1
-
 ## Friday
+- [ ] EECE Program 1 [canvas](https://canvas.csuchico.edu/courses/35918/assignments/483744) 
 - [ ] RELS Lectures
-- [ ] RELS Quiz
+- [ ] RELS Quiz [canvas](https://canvas.csuchico.edu/courses/35556/assignments/479429) 
 
 ## Saturday
-- [ ] RELS Discussion Reply
+- [ ] CINS Labs
 - [ ] 301W RAw5p1
 
 ## Sunday
-- [ ] CINS Lectures [Canvas](https://canvas.csuchico.edu/courses/35056/assignments/481409) 
+- [ ] RELS Discussion Reply [canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450)
+- [ ] CINS Lectures [canvas](https://canvas.csuchico.edu/courses/35056/assignments/481409) 
 
 
 # Do Next Week
