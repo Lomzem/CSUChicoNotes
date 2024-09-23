@@ -50,3 +50,23 @@ donating food, meditation
 - Body abandonment and fasting
 - NOT suicide, highest form of self-discipline to overcome bad karma
 - Whole community comes together to celebrate the Sallekana
+
+# Vigambaras vs. Svetambaras
+
+## Vigambaras
+"sky-clad" (naked)
+- Women can't join monastic tradition (women must be reborn as men to attain liberation)
+- Only possess drinking gourd and broom to gently remove insects from path
+- Rejects idea that Mahavira was married
+- Only eat once a day
+- Believes scriptures were lost long ago
+- Mostly found in Southern India
+
+## Svetambaras
+"white-clad"
+- Women can join monastic tradition (and be tirthankaras)
+- Wears white clothes, including mask to block inhalation of insects; can own begging bowl and books
+- Accepts idea that Mahavira was married
+- Can eat more than once a day and collect food from multiple households
+- Believes some scriptures were recovered
+- Mostly found in Northern India
