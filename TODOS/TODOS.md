@@ -18,6 +18,7 @@ https://canvas.csuchico.edu/courses/35556/modules/items/1989002
 
 ## Tuesday
 - [ ] 301W RAW5P2
+- [ ] CINS NCL Code [sheets](https://docs.google.com/spreadsheets/u/1/d/1t9fmo9RgXbGJghVLg_x6TZeeg00oQuJ182wp3vPhIDA/edit?usp=sharing) 
 
 # Do Next Week
 
