@@ -14,7 +14,7 @@ tags: []
 - Born Vardhamana Jnatrpura c. 599-527 BCE
 - Rejected royal life, left home at 30 to become ascetic
 - Committed to ascetics, attained enlightenment [[vocab-jainism#kaivalya|kaivalya]]
-- Seen as final (24th) Jina or Tirthankara: ford-maker, someone who helps others cross a perilous river of samsara
+- Seen as final (24th) [[vocab-jainism#Jina/Tirthankara|Jina or Tirthankara]]: ford-maker, someone who helps others cross a perilous river of samsara
 - Cycles of history, there will be future Jinas
 
 # Five Vows Taken by Ascetics
@@ -25,3 +25,28 @@ tags: []
 5) Non-attachment/few possessions (aparigraha)
 
 ## Other Vows by Ascetics
+- [[vocab-jainism#Equanimity|Equanimity]]
+- Praise of the [[vocab-jainism#Jina/Tirthankara|Jinas]]
+- Homage to the teachers
+- Repentance
+- Body abandonment, fasting to be near the soul
+- Renounce all possessions
+
+# Householders/Laypeople Practitioners
+
+## Ahimsa
+- Don't have to worry about one-sensed beings (can use electricity/toilets)
+- Supposed to avoid meat, honey, butter, wine, root vegetables
+- Can't cook at night to avoid harming small beings
+- Don't eat fermented foods because microorganisms in them
+
+## Brahmacarya
+faithfulness in marriage
+
+## Puja to Jinas
+donating food, meditation
+
+# Sallekana: Fasting to death
+- Body abandonment and fasting
+- NOT suicide, highest form of self-discipline to overcome bad karma
+- Whole community comes together to celebrate the Sallekana
