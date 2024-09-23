@@ -41,6 +41,9 @@ Forwarding table removes entries after a certain amount of time
 
 Broadcast packets are **never** in the table
 
+## Spanning Tree Protocol
+Recognizes cycle/loop and logically disconnects one of the cables
+
 # Switch Forwarding Process
 
 1) Learn **source** address
