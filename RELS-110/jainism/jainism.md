@@ -53,7 +53,7 @@ donating food, meditation
 
 # Vigambaras vs. Svetambaras
 
-## Vigambaras
+## Vigambaras / Digambaras
 "sky-clad" (naked)
 - Women can't join monastic tradition (women must be reborn as men to attain liberation)
 - Only possess drinking gourd and broom to gently remove insects from path
