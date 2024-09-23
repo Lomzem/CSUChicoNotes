@@ -8,9 +8,12 @@ Updated: Wed 9/18
 
 # Do TODAY / Current Tasks
 - [ ] RELS Lectures
-- [ ] RELS Quiz [canvas](https://canvas.csuchico.edu/courses/35556/assignments/479429) 
-- [ ] RELS Discussion Reply [canvas](https://canvas.csuchico.edu/courses/35556/assignments/479450)
+https://canvas.csuchico.edu/courses/35556/modules/items/1988998
+https://canvas.csuchico.edu/courses/35556/modules/items/1988999
+https://canvas.csuchico.edu/courses/35556/modules/items/1989001
+https://canvas.csuchico.edu/courses/35556/modules/items/1989002
 
+- [ ] RELS Quiz [canvas](https://canvas.csuchico.edu/courses/35556/assignments/479429) 
 # Do This Week
 
 ## Tuesday
