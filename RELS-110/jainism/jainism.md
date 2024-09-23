@@ -70,3 +70,9 @@ donating food, meditation
 - Can eat more than once a day and collect food from multiple households
 - Believes some scriptures were recovered
 - Mostly found in Northern India
+
+# Similarities/Differences to Other Indian Religions
+- Most strict interpretation of ahimsa
+- Karma is a physical pollutant that affects you/binds to your soul (jiva) regardless of intent
+- Like Hindus, lay Jains practice puja oriented to the 24 Jinas
+- Svetambars' puja resembles Hindu puja; bathe/dress images of Jinas and offer fruit, incense, and fire
