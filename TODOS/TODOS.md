@@ -8,10 +8,25 @@ Updated: Wed 9/18
 
 # Do TODAY / Current Tasks
 - [ ] RELS Lectures
-- [ ] Pack graphing calculator
-- [ ] 301W RAW5P2 https://canvas.csuchico.edu/courses/35697/assignments/465426
+- [ ] RELS Discussion Post
 
 # Do This Week
+
+## Thursday
+- [ ] RELS Quiz
+- [ ] 301W RA
+
+## Friday
+- [ ] CINS Labs
+- [ ] CINS Lectures
+- [ ] RELS Reply
+- [ ] 301W Writing
+
+## Saturday
+- [ ] 301W Writing
+
+## Sunday
+- [ ] 301W Writing
 
 # Do Next Week
 
