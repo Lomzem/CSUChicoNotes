@@ -41,8 +41,8 @@ From highest to lowest:
 2. Presentation Layer
 3. Session Layer
 4. Transport Layer (TCP, UDP)
-5. Network Layer (IP)
-6. Data Link Layer
+5. Network Layer (IP) (across networks)
+6. Data Link Layer (inside networks)
 7. Physical Layer
 
 ## Actual Implementation: TCP/IP (DOD) Model

@@ -1,5 +1,5 @@
 ---
-id: 9-23-24-lecture
+id: switches-forwarding-tables
 aliases: []
 tags: []
 ---
@@ -15,6 +15,8 @@ INTF stands for interfaces (ports)
 
 "Switch" means Transparent Learning Switches (by default)
 
+Switches are transparent to **user data**, not necessarily to each other (allows for spanning tree protocol)
+
 Watch things going on to learn about things in the network
 
 Don't want to hold on to packets for long to conserve memory
@@ -22,10 +24,12 @@ Don't want to hold on to packets for long to conserve memory
 Switches don't make packets, they forward packets
 
 ## Forwarding Table Example
-| Addr | INTF (Interface/Port on Switch) |
+| DST MAC Addr | SRC MAC INTF (Interface/Port on Switch) |
 | :--- | ---: |
 | A | 0 |
 | C | 2 |
+
+Layer 2 uses Ethernet/MAC Addresses
 
 D->C is a unicast address, MAC Address at Layer 2
 
@@ -51,3 +55,8 @@ Recognizes cycle/loop and logically disconnects one of the cables
 2) If **destination** address is in the forwarding table, send out to specified INTF, _unless the INTF is the Ingress INTF_
 
 3) Else **flood** packet
+
+# Switch Limitations (Switch-Only)
+- Broadcast overhead, have to use broadcast packets (flooding)
+- Management
+- Table size (forwarding table)
