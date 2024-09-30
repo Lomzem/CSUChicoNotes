@@ -10,6 +10,8 @@ Routers are in Layer 3, Network Layer [[04-Lecture-2#3. OSI (7 Layer) Model]]
 
 Routers separate things (solve broadcast/floods)
 
+Only care about networks not individual devices
+
 Routers contain a whole network of switches
 
 Routers don't consider individual devices, only care about object (collection of devices)
@@ -25,6 +27,8 @@ IEP network, local area network, ...
 Routers use **IP** addresses, Layer 3
 
 Each router has at least two interfaces (connects two networks)
+
+Routers can create routing loops (error)
 
 A packet -> C
 
