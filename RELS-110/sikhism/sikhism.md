@@ -6,6 +6,20 @@ tags: []
 
 **pilgrimage**: making sacred journey to engage in ritual practices/worship
 
+# Sikhs
+**Sikh**: disciple
+- Monotheistic
+- Founder: Guru Nanak
+- Believe in reincarnation
+
+## Sikh Beliefs
+- Importance of service to others and world (seva)
+- Equality of all beings
+- Need to overcome attachment, pride, lust
+
+# Khalsa
+Sikhs who join khalsa swear to fight in service of others, follow rules like not cutting hair, not using tobacco/alcohol, no adultery
+
 # Harmandir, Sahib, or Temple of God
 - Major site of Sikh pilgrimage
 - **Amritsar**: site of pilgrimage
