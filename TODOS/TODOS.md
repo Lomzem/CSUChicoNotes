@@ -7,25 +7,22 @@ tags: []
 Updated: Wed 9/25
 
 # Do TODAY / Current Tasks
+- [ ] 301W RA
 
 # Do This Week
 
+## Wednesday
+- [ ] RELS Discussion
+
 ## Thursday
-- [ ] 301W RA
-- [ ] RELS Reply
-- [ ] 301W Writing
+- CINS Labs
 
 ## Friday
-- [ ] CINS Labs
 - [ ] CINS Lectures
 
 ## Saturday
-- [ ] RELS Lectures
-- [ ] RELS Quiz
-- [ ] 301W Writing
 
 ## Sunday
-- [ ] 301W Writing
 
 # Do Next Week
 
