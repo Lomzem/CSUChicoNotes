@@ -31,6 +31,7 @@ IPv4 most common
     - either entire chunk of data is sent/received or none at all
 
 ## IP Addresses (Intro)
+See [[10-2-24-ip-addresses]]
 - Creates distinction: IN/OUT of network
 - MSB: network portion
     - same for all devices in an IP network
