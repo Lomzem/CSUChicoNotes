@@ -40,5 +40,18 @@ IPv4 most common
 ## IP Forwarding
 **NO** learning, routers do **not** learn
 
-1) If in local net, send directly (give directly to switches/Layer 2)
+### IP (Layer 3) Forwarding Table
+| DST Network | Next Hop |
+| -------------- | --------------- |
+|network, not device  | device (interface), not a network, must be in local network| 
+
+- Next Hop: next network layer device that gets us toward destination
+
+Process:
+1) If in any local network, send directly (give directly to switches/Layer 2)
     - Same network portion
+2) If DST network in Forwarding Table, send to next hop
+3) Send to Default Route/Gateway (single device in local network), if defined
+4) Else, drop packet
+
+Step 2 fails for end devices, don't have routing capabilities, do have forwarding table, forwarding table will be empty
