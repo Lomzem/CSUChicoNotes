@@ -42,3 +42,9 @@ tags: []
 
 9) What is the vulnerability associated with CPU states?
 => When a system crashes, there is a core dump of its internal state, if the core dump is not secured, then unauthorized users could access it
+
+10) How do you protect against buffer overflow?
+=> Set a base/limit for the register and user/privileged modes
+
+11) Which type of memory outputs on both the rising and falling edges of the clock cycle?
+=> DDR SDRAM
