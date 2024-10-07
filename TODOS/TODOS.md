@@ -5,9 +5,8 @@ tags: []
 ---
 
 # Do TODAY / Current Tasks
-- [ ] RELS Reply
 - [ ] RELS Lecture
-- [ ] RELS Quiz
+- [ ] RELS - Life of Buddha + Sikhism in modern world quiz [canvas](https://canvas.csuchico.edu/courses/35556/quizzes/189343?module_item_id=1989052) 
 
 # Do This Week
 
