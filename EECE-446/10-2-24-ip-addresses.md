@@ -88,9 +88,10 @@ Longest Prefix Match
 Example:
 - `50.12.35.0/24` -> Device A
 - `50.12.0.0/16` -> Device B
-- `50.12.0.0/8` -> Device C
+- `50.0.0.0/8` -> Device C
 
 Match an address like `50.12.35.127` to the longest prefix (network portion) match
 ^ Above example `50.12.35.127` sends to Device A
 
 `50.12.4.8` matches Device B
+

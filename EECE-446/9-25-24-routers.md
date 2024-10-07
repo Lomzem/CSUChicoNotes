@@ -50,3 +50,5 @@ Layer 2 Table:
 ## How to get out of network?
 
 ## How does a router decide where to send?
+
+
