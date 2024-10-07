@@ -36,3 +36,47 @@ vow of compassion for all beings
 2. Illness
 3. Death
 4. Hindu renunciant
+
+# Quest for Enlightenment
+- Cut his hair
+- Fasting
+
+# Middle Way
+- Originally practiced strict asceticism
+"Middle way" between hedonism and extreme asceticism
+- Metaphor of the Lute Player
+
+# Meditation Under the Bodhi Tree
+- Traditionally, 49 days
+- Tempted by demon Mara and his daughters
+- Attained enlightenment
+
+Buddha: one who is awake or one who is enlightened
+
+# Life as a Teacher
+Like Hindu Vedanta and Jainism, taught need to overcome samsara and attachments through 3 fold practice:
+1. Morality
+2. Meditation
+3. Wisdom
+
+His formal system of teachings known as 4 Nobel Truths: cause of suffering and how to end it
+
+# Sangha
+Community of monks
+
+- What Gautama taught was **Dharma** (his teachings reflect knowledge of cosmic order)
+- Sangha originally travelled except during rainy season
+
+Rules:
+- Ahimsa
+- Don't take what isn't given
+- Refrain from sexual actions or desires
+- Refrain from lying/harmful speech
+- Refrain from alcohol, drugs, intoxicants
+- Have only meager possessions (begging bowl, robe)
+
+# Parinirvana (Final Nirvana)
+After his death
+
+- Buddha travelled/taught for 40 years after enlightenment
+- Died about 483 BCE and entered parinirvana, meaning he escaped rebirth cycle
