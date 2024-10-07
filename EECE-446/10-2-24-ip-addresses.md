@@ -40,7 +40,7 @@ Example of full:
 - All devices have a unique address
 - No devices have the broadcast nor network address
 - No two networks overlap in their address space
-- Each router interface is in a separate network
+- Each interface of each router is in a separate network
 
 # Reserved Addresses
 In every IP network, there are two reserved addresses:
@@ -48,7 +48,19 @@ In every IP network, there are two reserved addresses:
 1) Network Address
     - Lowest possible addr in network (host portion bits are all 0s)
     - NET = `Device Addr & MASK` (bitwise `AND`)
+    - Distinguishes _entire network_ from _individual device_
 
 2) Broadcast Address
     - Highest possible addr in network (host portion bits are all 1s)
     - BCAST = `Device Addr | ~MASK` (bitwise `OR` with complement of mask)
+
+Also reserved:
+- `0.0.0.0` - Unknown
+- `127.0.0.0/8` - localhost, loopback
+- Local/Unroutable
+    - `192.168.0.0/16`
+    - `172.16.0.0/12`
+    - `10.0.0.0/8`
+
+# Network Address Translation (NAT)
+Allows you to use private address internally and automatically translates to public address so public only sees public address
