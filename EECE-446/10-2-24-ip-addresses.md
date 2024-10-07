@@ -32,3 +32,23 @@ Count of 1s is 11
 Example of full:
 192.168.11.7/11
 
+# IP Address Rules
+- All devices in same network have:
+    - Same network addr
+    - Same mask
+
+- All devices have a unique address
+- No devices have the broadcast nor network address
+- No two networks overlap in their address space
+- Each router interface is in a separate network
+
+# Reserved Addresses
+In every IP network, there are two reserved addresses:
+
+1) Network Address
+    - Lowest possible addr in network (host portion bits are all 0s)
+    - NET = `Device Addr & MASK` (bitwise `AND`)
+
+2) Broadcast Address
+    - Highest possible addr in network (host portion bits are all 1s)
+    - BCAST = `Device Addr | ~MASK` (bitwise `OR` with complement of mask)
