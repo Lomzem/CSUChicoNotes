@@ -64,3 +64,33 @@ Also reserved:
 
 # Network Address Translation (NAT)
 Allows you to use private address internally and automatically translates to public address so public only sees public address
+
+# Classful and Classless Addresses
+
+## Classful Addresses
+Class A: `/8` (0.....)
+Class B: `/16` (10.....)
+Class C: `/24` (110.....)
+Class D: Multicast (1110.....)
+
+See [[04-Lecture-2#Specificity|Multicast and Specificity]]
+Broadcast: everybody else
+Unicast: target is one device
+Multicast: Some hosts, maybe not all
+Everything is multicast, multicast could be both unicast or broadcast
+
+## Classless Interdomain Routing (CIDR)
+- Could pick any mask
+- Default today
+
+Longest Prefix Match
+
+Example:
+- `50.12.35.0/24` -> Device A
+- `50.12.0.0/16` -> Device B
+- `50.12.0.0/8` -> Device C
+
+Match an address like `50.12.35.127` to the longest prefix (network portion) match
+^ Above example `50.12.35.127` sends to Device A
+
+`50.12.4.8` matches Device B
