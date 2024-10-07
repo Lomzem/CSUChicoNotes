@@ -48,3 +48,9 @@ tags: []
 
 11) Which type of memory outputs on both the rising and falling edges of the clock cycle?
 => DDR SDRAM
+
+12) What security risk can be associated w/interrupt processing?
+=> An interrupted process may assume priority of higher level process
+
+13) The Zachman Framework
+=> Includes specifications for defining and capturing an architecture
