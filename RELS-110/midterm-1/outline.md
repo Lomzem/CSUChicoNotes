@@ -96,3 +96,15 @@ Goal: ekagrata (one-pointedness)
 - Bhakti uses Puja and Darshan to achieve moksha
 - Raja Yoga uses ekagrata, ahimsa, Dhyana, samadhi to achieve moksha
 - Jnana yoga uses meditation, Atman, Brahman to achieve moksha
+
+# P1
+- Introduce Brahman
+- Both seek unification with something higher (Brahman/God)
+- Both seeking moksha
+- Both require certain kinds of disciplines
+- Both require ethical practices like ahimsa
+
+# P2
+- 
+
+# P3
