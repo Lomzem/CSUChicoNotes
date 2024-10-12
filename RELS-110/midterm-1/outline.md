@@ -97,14 +97,20 @@ Goal: ekagrata (one-pointedness)
 - Raja Yoga uses ekagrata, ahimsa, Dhyana, samadhi to achieve moksha
 - Jnana yoga uses meditation, Atman, Brahman to achieve moksha
 
+# P2 Jnana yoga
+- Meditation
+- Meditate on Brahman
+- meditation, Atman, Brahman
+
+# P3
+- Bhakti is Dvaita Vedanta (dualistic)
+- God and soul are separate realities
+- Gods are face of Brahman
+- Puja
+
 # P1
 - Introduce Brahman
 - Both seek unification with something higher (Brahman/God)
 - Both seeking moksha
 - Both require certain kinds of disciplines
 - Both require ethical practices like ahimsa
-
-# P2
-- 
-
-# P3
