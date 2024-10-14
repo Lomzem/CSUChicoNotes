@@ -18,3 +18,4 @@ The truth of the end of suffering
 ## 4. [[./10-14-24-magga.md|Magga]]
 The truth of the path to the end of suffering
 
+# Moral Teachings: The 5 Precepts
