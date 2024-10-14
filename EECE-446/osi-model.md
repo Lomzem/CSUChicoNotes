@@ -4,7 +4,6 @@ aliases: []
 tags: []
 ---
 
-
 # OSI (7 Layer) Model
 - Model for [[04-Lecture-2#1. Layering|Layering]]
 - When people say Layer 1, Layer 7, etc. they are talking about OSI Model
