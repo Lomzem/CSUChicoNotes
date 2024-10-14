@@ -11,7 +11,7 @@ tags: []
 # Do This Week
 
 ## Tuesday
-- [ ] Review EECE
+- [ ] Review EECE, ends IPv6
 
 # Do Next Week
 - [ ] Monday EECE Midterm
