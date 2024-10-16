@@ -23,6 +23,10 @@ Don't want to hold on to packets for long to conserve memory
 
 Switches don't make packets, they forward packets
 
+Switches divide **collision domains**
+
+**collision domain**: logical areas/spaces where collisions could happen
+
 ## Forwarding Table Example
 | DST MAC Addr | SRC MAC INTF (Interface/Port on Switch) |
 | :--- | ---: |
