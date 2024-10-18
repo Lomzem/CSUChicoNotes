@@ -1,5 +1,5 @@
 ---
-id: 10-17-24-main
+id: 10-17-24-therevada-buddhism
 aliases: []
 tags: []
 ---
