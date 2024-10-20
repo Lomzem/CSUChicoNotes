@@ -32,3 +32,6 @@ tags: []
 
 8) TCO stands for
 => Total cost of ownership
+
+9) BCP stands for:
+=> Business continuity plan
