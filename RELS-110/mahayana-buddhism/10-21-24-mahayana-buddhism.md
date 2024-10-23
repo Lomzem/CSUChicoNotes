@@ -55,6 +55,28 @@ Import Sutras:
 
 Develop concepts like emptiness (**Shunyata**)
 
+# Shunyata (Emptiness)
+Mahayana philosophers like Nagarjuna (c. 150-250 CE) took logical conclusion:
+- If reality is empty of inherent existence, then Buddha and bodhisattvas are also empty of inherent existence
+- Emptiness itself is empty of inherent existence
+- Nirvana is present in samsara (since both are empty)
+- Ultimately, samsara is nirvana and nirvana is samsara
+- Influenced later traditions (Zen)
+
+# Madhyamika vs Yogacara
+- Both agree everything is empty of indepedent existence
+- Yogacara believes behind emptiness is a Mind/Consciousness
+- This becomes known as "Buddha Mind" or "Buddha nature"
+
+# Buddha Nature
+Tibetan Buddhism, a variety of Yogacara
+
+In Nyingma school of Tibetan Buddhism, fundamental nature of mind is pure naked awareness of the present
+- Primordial, radiant, always awake
+- The universal basis of experience; nature of all things; ground of being
+- Buddha nature inside all of us
+- Through meditation, all can learn to realize Buddha nature
+
 # Nibbana / Nirvana
 - Neither abides nor passes away
 - Not caused, established, arisen, supported
