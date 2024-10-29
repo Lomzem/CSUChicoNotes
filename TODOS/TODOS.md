@@ -5,19 +5,14 @@ tags: []
 ---
 
 # Do TODAY / Current Tasks
-- [ ] RELS Lecture
-- [ ] RELS Quiz
+- [ ] RELS Discussion https://canvas.csuchico.edu/courses/35556/assignments/479446
+- [ ] RELS Quiz https://canvas.csuchico.edu/courses/35556/assignments/479428
 
 # Do This Week
 
-## Tuesday
-- [ ] Review EECE, ends IPv6
-
 # Do Next Week
-- [ ] Monday EECE Midterm
 
 # Do Eventually...
-- [ ] 10/23 Program3 Group
 
 # Completed
 
