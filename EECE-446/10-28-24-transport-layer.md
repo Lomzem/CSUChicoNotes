@@ -12,6 +12,10 @@ tags: []
     - 16 bits
 - Well known ports (like 80 for HTTP) in `/etc/services`
 
+# Protocols
+- UDP
+- TCP
+
 # User Datagram Protocol (UDP)
 
 ## Service Model
@@ -42,11 +46,18 @@ All 16 bits in size:
 ## Important TCP Headers
 - SRC/DST Port Numbers (16 bit)
 - Sequence Number (32 bit)
+    - Number of the first byte of info (not data) in that packet
+    - Initial seq numbers are picked randomly
 - ACK Number (32 bit)
+    - Sender of ACK number says I have received all info before this byte identified by ACK number
+    - All info _before_ the byte identified by ACK number
+    - The byte that I want
 - Flags (8 bit)
-    - SYN: Synchronize
+    - SYN: Synchronize, permission to send data
     - FIN: Finish
     - ACK: Acknowledge
+
+In byte stream, one byte (virtual byte) is reserved for SYN flag, not data app is sent/created, part of infinite byte stream
 
 ## State Machine
 - Connection setup
@@ -55,5 +66,5 @@ All 16 bits in size:
     - Only state that can send data
 - Connection teardown
 
-# Connection Setup
+# Connection Management
 
