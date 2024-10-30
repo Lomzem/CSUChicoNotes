@@ -104,4 +104,35 @@ tags: []
 - Conscripted labor to build Great Wall of China
 - Did not last long
 
-# Confucius' Response to Legalists
+# Rivals: Mohists
+- Mozi, chief philosopher of Mohism
+- Strongly rejected sacrificial offerings as wasteful/useless
+- Condemned elaborate funerals/music
+- Taught everyone should be loved equally
+- Confucians rejected because Xiao, tradition, importance of a sense of connection to past/future
+
+# Mengzi and Xunzi
+- Mengzi/Mencius (372-289 BCE)
+- Xunzi (310-219 BCE)
+- Stress importance of training people to follow path of virtue
+- Mengzi believed humans naturally had good heartedness
+    - Allowed certain rule-breaking if they followed that natural inclination (overthrow a ruler who is causing suffering)
+- Xunzi believed people innately wicked/warped by desires
+    - Could be educated in virtue and li
+    - Process is necessary for society
+- Xunzi didn't believe in gods
+    - Mandated old rituals to produce virtue/value tradition
+
+# Cultural Rise of Confucianism
+- Became official ideology in Han dynasty (206 BCE-220 CE)
+- Remained culturally powerful, sometimes displaced by Buddhism
+- Revivals in Song dynasty (960-1279 CE)
+- Revivals in Qing dynasty (1644-1911 CE)
+
+# Impact of Confucianism on Chinese Culture
+- Shaped general norms/human behavior
+- Shaped family life
+- Profoundly affected education and civil service
+- 5 classics & 4 Confucian texts (including Analects and Mencius' writings) become basis for civil service exams
+- Given every 3 years, open to all male applicants
+    - Grueling, week-long test
