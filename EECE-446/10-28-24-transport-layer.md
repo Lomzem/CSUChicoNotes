@@ -43,6 +43,8 @@ All 16 bits in size:
 - Flow Control: adapting to what it does in network to avoid overloading/overwhelming end destination
 - Congestion Control: adapting behavior to avoid overloading network (things in between)
 
+# Connection Setup
+
 ## Important TCP Headers
 - SRC/DST Port Numbers (16 bit)
 - Sequence Number (32 bit)
@@ -59,6 +61,12 @@ All 16 bits in size:
 
 In byte stream, one byte (virtual byte) is reserved for SYN flag, not data app is sent/created, part of infinite byte stream
 
+ISN: Initial Sequence Number, randomized number for "first" byte in infinite byte stream
+
+- SYN and ACK in same packet are independent
+- ACKs can't have any data/payload
+- Don't ACK in response to an ACK packet
+
 ## State Machine
 - Connection setup
 - **Established** state
@@ -66,5 +74,9 @@ In byte stream, one byte (virtual byte) is reserved for SYN flag, not data app i
     - Only state that can send data
 - Connection teardown
 
-# Connection Management
+After Established state, every packet has ACK flag set
+
+# Connection Teardown
+3-Way Handshake with FIN instead of SYN
+- Also first TCP packet has FIN **and** ACK flags set
 
