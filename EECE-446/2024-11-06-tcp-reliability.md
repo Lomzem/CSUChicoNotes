@@ -20,4 +20,3 @@ Max THPT = $(1500 B) / (25 ms) = 60,000 B/sec = 60 kB/sec$
 - Sender has Sender's Window
 - Add more to packets as long as fits within window
 
-
