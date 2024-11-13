@@ -16,6 +16,12 @@ int select(int nfds, fd_set* readfds, fd_set* writefds, fd_set* exceptfds, struc
 - `readfds`: which file descriptors `select` could read WITHOUT blocking
 - `writefds`: which file descriptors `select` could write WITHOUT blocking
 - `exceptfds`: any errors?
+- `timeout`: how long to wait for file descriptors to come back
+
+Return value: count of file descriptors across all sets
+- `0` means timeout
+- `-1` on ERROR
+- `2` means 2 file descriptors from the sets are ready
 
 In this class, we **aren't** going to use `writefds` or `exceptfds`
 - Instead use `NULL`
