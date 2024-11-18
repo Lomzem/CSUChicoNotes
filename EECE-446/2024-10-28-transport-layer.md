@@ -42,6 +42,7 @@ All 16 bits in size:
 ## Additional Functionality
 - Flow Control: adapting to what it does in network to avoid overloading/overwhelming end destination
 - Congestion Control: adapting behavior to avoid overloading network (things in between)
+See: [[2024-11-18-flow-ctl-congestion-ctl.md]]
 
 # Connection Setup
 
