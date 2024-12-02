@@ -11,6 +11,7 @@ tags: []
 - Body has harmony/balance
 - Spiritual health beliefs (sorcery/evil spirits)
 
+
 # Paragraph 3 - Skin Remedies
 - Coining
 - Cupping
