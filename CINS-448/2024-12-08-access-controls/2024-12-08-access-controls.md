@@ -95,3 +95,33 @@ Two-Factor (aka "strong auth") requires two authentication methods
     - You know: Password
     - You are: Fingerprint
 
+# Authentication vs Authorization
+Authorization establishes what user is allowed to do once user has been authenticated by the system
+
+# Access Controls
+- Rule-Based
+- Role-Based
+- Content-Dependent
+
+## Rule-Based
+- Explicit rules grant access
+- Grant individual people individual permissions
+
+### Access Control List(ACL)
+Table of users and their permissions
+
+## Role-Based
+- Implicit rules grant access
+- Groups share same access
+
+## Content-Dependent Access Control
+- Access based on values in data (i.e., Department)
+- Local Manager: Can only see data only on employees in the same department
+- HR Manager: Can see data on all employees
+
+# Accountability
+How are actions traced to an individual to ensure that the person who makes data/system changes can be identified?
+
+**ALL ABOUT LOGS**
+
+
