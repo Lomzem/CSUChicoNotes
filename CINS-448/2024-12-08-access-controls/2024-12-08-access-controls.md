@@ -63,3 +63,35 @@ Three physical characteristics unique for each individual
 3. Iris of the eye
     - Random patterns of granularity in the colored portion of the eye
 
+Important Elements of Biometric Devices:
+- Accuracy
+- Processing speed
+- User acceptability
+
+### Accuracy
+Must be able to separate authentic users from imposters
+
+Measurable factors
+- False reject rate - Type I Error
+- False accept rate - Type II Error
+    - Most important error
+- Crossover error
+    - Total error
+       - False acceptance + False rejection
+
+### Processing Speed
+- How fast accept/reject decision is presented to the user
+- Generally accepted standard is 5-10 seconds from start-up to decision announcement
+
+### User Acceptability
+- Users must be comfortable/willing to use system
+- Convince users that system is not dangerous to their health
+- Not infringing on privacy rights
+
+# One-Factor vs Two-Factor
+
+Two-Factor (aka "strong auth") requires two authentication methods
+- Something you know and something you have
+    - You know: Password
+    - You are: Fingerprint
+

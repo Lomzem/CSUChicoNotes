@@ -16,3 +16,15 @@ tags: []
 - Token
 - Password
 => Password
+
+4) Which of the following biometric methods obtain the patterns and colors around a person's pupil?
+=> iris scan
+
+5) Which type of error is false accept rate?
+=> Type II Error
+
+6) Which type of error is false acceptance + false rejection?
+=> Crossover Error
+
+7) A username and password combination is which type of authentication?
+=> Single-factor
