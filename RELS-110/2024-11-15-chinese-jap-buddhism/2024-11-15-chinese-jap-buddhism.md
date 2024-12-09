@@ -55,9 +55,24 @@ Japan:
 - Main practice is chanting the name of Amitabha
 
 Basic Idea:
-in addition to "self-poewr" (your own work towards enlightenment), you need "other-power" (help from Amitabha)
+in addition to "self-power" (your own work towards enlightenment), you need "other-power" (help from Amitabha)
 - Individual chanting
     - Namo Amituofo (Chinese)
     - Namo Amida Butsu (Japanese)
 - Collective chanting
 - 3 or 7 day retreats
+
+Nembutsu: the chant Namo Amida Butsu
+
+# Chan (Zen): Rejects "Other Power" for Self Power
+- Don't rely on savior figure
+- Doesn't mean obsessive striving for enlightenment; strong influence from Daoism
+
+Similarities to Daoism:
+- Both teach that true wisdom doesn't come thru mind, comes thru experience & non-conceptual awareness
+    - Emptiness
+    - Wu (the hole at the center of the wheel)
+- Both traditions say don't exert great effort; instead, learn to live in the moment
+    - Sitting meditation/zazen is similar to wu wei
+
+27 min lecture
