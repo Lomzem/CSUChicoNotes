@@ -32,8 +32,8 @@ tags: []
 8) What technology allows users to sign on to a computer or network once, and have their identification and authorization credentials allow them into all the authorized systems?
 => Single sign-on (SSO)
 
-9) In a Kerberos system, the client first authenticates with teh KDC. Then when it requests access to a particular resource what must it present?
-=> Ticket
+9) In a Kerberos system, the client first authenticates with the KDC. Then when it requests access to a particular resource what must it present?
+=> Ticket Granting Ticket (TGT)
 
 10) With a Kerberos system does the user's password ever get passed across the network?
 => No, the user's password is stored in the KDC. Then the KDC uses the password to decrypt the authenticator
