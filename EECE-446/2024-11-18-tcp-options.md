@@ -1,3 +1,9 @@
+---
+id: 2024-11-18-tcp-options
+aliases: []
+tags: []
+---
+
 # TCP Options
 
 ## Window Scaling

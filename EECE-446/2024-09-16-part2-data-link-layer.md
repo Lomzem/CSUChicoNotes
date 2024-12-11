@@ -21,7 +21,7 @@ Lowest layer where begin thinking about errors
 ### 1) Do nothing
 
 ### 2) Error detection
-- Example: CRC
+- Example: Cyclic Redundancy Check (CRC)
 - Don't know how many errors or where errors occurred
 
 ### 3) Error correction
