@@ -5,9 +5,9 @@
     firstname: "Lawjay",
     lastname: "Lee"
   ), 
-  professor: [Professor Patricia Sullivan],
-  course:[English 624], 
-  date: [12 February 2012],
+  professor: [Professor Micki Lennon],
+  course:[RELS-110], 
+  date: [16 December 2024],
   // bibliography-file: "example.bib",
   font-size: 12pt,
 )
