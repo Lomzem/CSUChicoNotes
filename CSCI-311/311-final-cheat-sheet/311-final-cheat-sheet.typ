@@ -23,6 +23,13 @@ Directed but with no cycles
 - Two disjoint sets of vertices $U$ and $V$
 - For all edges ${u, v}$, $u$ and $v$ are in different vertex sets
 
+=== K-Colorable
+Assignment of $k$ colors to vertices so that no pair of adjacent vertices have same color
+
+Requires *BFS* algorithm
+
+Uses: scheduling, make sure no two exams overlap
+
 == Graph Representations
 
 #render("digraph {
@@ -46,3 +53,17 @@ Directed but with no cycles
     [a], [b],
     [b], [],
 )
+
+== Types of Edges
+- Tree edge: in BFS or DFS search tree
+- Back edge
+- Forward edge
+- Cross edge: all other edges
+
+= Runtimes
+
+*BFS and DFS*: $upright(O)(|V| + |E|)$
+
+= Dijkstra
+- Uses PQ, pop non-infinity smallest, update neighbors
+- Negative edge weights may cause cycles, interferes w/alg
