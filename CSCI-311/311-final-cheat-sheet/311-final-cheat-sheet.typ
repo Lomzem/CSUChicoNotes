@@ -30,6 +30,14 @@ Requires *BFS* algorithm
 
 Uses: scheduling, make sure no two exams overlap
 
+== Sparse Graph
+- A sparse (connected) graph has about at most as many edges as vertices
+- For connected: $n-1$ edges minimal but also could be disconnected
+
+== Dense Graph
+- Has nearly the max number of edges
+- Max num of edges: $n dot (n-1) slash 2$
+
 == Graph Representations
 
 #render("digraph {
@@ -63,6 +71,9 @@ Uses: scheduling, make sure no two exams overlap
 = Runtimes
 
 *BFS and DFS*: $upright(O)(|V| + |E|)$
+
+*Dijkstra*: $upright(O)((|V| + |E|) dot log(|V|)) = upright(O)(|E| dot log(|V|))$
+- Assuming a connected graph, making $|V| = upright(O)(|E|)$
 
 = Dijkstra
 - Uses PQ, pop non-infinity smallest, update neighbors
