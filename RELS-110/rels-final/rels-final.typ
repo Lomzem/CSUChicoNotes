@@ -53,7 +53,7 @@ Drawing on the lecture, readings, and films, discuss:
 - Belief that after death, we reincarnate and continue to suffer
 - Goal: become an arhat: one who escapes cycle of samsara to attain nirvana, ending this suffering
 */
-Life is suffering. In Buddhism, it is believed that after death, people reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. People who successfully escape this reincarnation cycle of suffering and achieve _nirvana_ are known as _arhats_. However, performing this feat requires intense discipline and meditation. As a core stepping stone to obtaining nirvana, followers of Therevada Buddhism gather in communities called _sangha_ that provide environments to pursue discipline and _nirvana_ @smits[15].
+In Buddhism, Life is suffering. It is believed that after death, people reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. People who successfully escape this reincarnation cycle of suffering and achieve _nirvana_ are known as _arhats_. However, performing this feat requires intense discipline and meditation. As a core stepping stone to obtaining nirvana, followers of Therevada Buddhism gather in communities called _sangha_ that provide environments to pursue discipline and _nirvana_ @smits[15].
 
 /* Paragraph 2: Sangha
 - What is the sangha?
