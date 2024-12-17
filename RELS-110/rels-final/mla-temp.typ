@@ -20,11 +20,12 @@
     paper: "us-letter",
     header: align(
       right + horizon,
-      [
-        #v(0.5in)
-        #author.lastname
-        #counter(page).display("1")
-      ]
+            []
+      // [
+      //   #v(0.5in)
+      //   #author.lastname
+      //   #counter(page).display("1")
+      // ]
     ),
     margin: 1in
   )

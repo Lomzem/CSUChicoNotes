@@ -44,9 +44,9 @@ Drawing on the lecture, readings, and films, discuss:
 */
 
 
-#import "@preview/wordometer:0.1.4" : *
-#show: word-count
-Word Count: #total-words
+// #import "@preview/wordometer:0.1.4" : *
+// #show: word-count
+// Word Count: #total-words
 
 /* Paragraph 1: Therevada Buddhism
 - Life is suffering is important in Therevada Buddhism
@@ -84,10 +84,10 @@ The _Vinaya_ essentially forces the members of the _sangha_ to depend on laypeop
 /*
 Paragraph 4: Meditation
 */
-Living in this simplistic and bare manner allows Buddhist followers to devote more time towards another crucial aspect of becoming an arhat: meditation. Members of the _sangha_ wake up early every day almost constantly practicing meditation @mindful-way.
+Living in this simplistic and bare manner allows Buddhist followers to devote more time towards another crucial aspect of becoming an arhat: meditation. Monks view meditation as a way to "live happily and peacefully" and to learn how to "be in harmony with the way things are in nature" @mindful-way. Meditation is such a crucial component of _sangha_ life that members of the _sangha_ wake up early every day almost constantly practicing meditation @mindful-way.
 
 /*
-Paragraph 6: Sangha and Ultimate Goal
+Paragraph 5: Sangha and Ultimate Goal
 - Connect meditation and vinaya to need for extensive meditation and ascetic discipline to become arhat
 */
-
+Ultimately, the main goal of Therevada Buddhism is to escape the reincarnation cycle of suffering and achieve _nirvana_. Joining the _sangha_ is a requirement to becoming an _arhat_ because it provides the correct environment to practice discipline and gain understanding. Through the _Vinaya_ and its restrictions on daily life, monks learn and practice this self-control. Through the constant meditation encouraged in the _sangha_, monks gain the harmony and peace needed to end their suffering. In other words, the _sangha_ remains to be a crucial step in pursuing the ultimate goal of attaining _nirvana_ in Therevada Buddhism.
