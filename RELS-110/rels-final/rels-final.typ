@@ -1,6 +1,6 @@
 #import "mla-temp.typ": *
 #show: mla.with(
-  title: "Title",
+  title: "The Sangha in Therevada Buddhism",
   author: (
     firstname: "Lawjay",
     lastname: "Lee"
@@ -53,34 +53,41 @@ Word Count: #total-words
 - Belief that after death, we reincarnate and continue to suffer
 - Goal: become an arhat: one who escapes cycle of samsara to attain nirvana, ending this suffering
 */
-Life is suffering. In Buddhism, it is believed that after death, people usually reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. Followers of Therevada Buddhism gather in communities called _sangha_ that 
+Life is suffering. In Buddhism, it is believed that after death, people usually reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. People who successfully escape this reincarnation cycle of suffering achieve _nirvana_ are known as _arhats_. However, performing this feat requires intense discipline and meditation. As a core stepping stone along the path of obtaining nirvana, followers of Therevada Buddhism gather in communities called _sangha_ that provide environments to pursue discipline and _nirvana_ @smits[15].
 
 /* Paragraph 2: Sangha
 - What is the sangha?
 - Sangha: Buddhist monks/nuns who live communally and follow a collective set of rules, the Vinaya
 - Join sangha to become arhat
 */
+Like suffering, the _sangha_ is a core component of Therevada Buddhism. In essence, the _sangha_ is "the community of followers" who practice the Buddha's teachings @smits[15]. This community includes both male monks and female nuns. In order to demonstrate perseverance towards discipline and escaping suffering, these followers must adhere to a strict set of rules known as the _Vinaya_. The _Vinaya_ outlines practices that should be avoided such as sex, consuming alcohol, stealing, or lying about your spiritual progress. However, it also details expectations that significantly affect daily life in the _sangha_. For example, it is stated in the Vinaya that monks must renounce almost all of their possessions and may only keep essential things such as robes and begging bowls @vinaya. Moreover, it is forbidden for the _sangha_ to obtain food themselves @mindful-way. As a consequence of these strict rules detailed in the _Vinaya_, it is essential for the sangha to depend on laypeople.
 
 /*
-Paragraph 3: Daily Life
+    - Celibacy and avoidance of sexual temptations
+    - No intoxicants
+    - No stealing
+    - No misrepresenting spiritual attainment
+    - Meditation, chanting, chores, begging
+    - Eating what is offered and no eating after noon
+*/
+
+/*
+Paragraph 3: Daily Life and Vinaya
+- Sangha can't obtain food themselves
+- Sangha depend on laypeople for food
+- Laypeople depend on sangha for spiritual teachings and guidance
+- Sangha can't spend as much time on things like growing their own food so they could prioritize meditation
 - Depend on laypeople to have more time for meditation
 */
+The _Vinaya_ essentially forces the members of the _sangha_ to depend on laypeople for the essential things they need to survive. While the _sangha_ discourages growing or creating your own source of food, it does allot time every day for monks to beg for food from the laypeople. While this may initially seem parasitical, the laypeople openly welcome this interaction with the _sangha_. Providing for monks benefits laypeople spiritually, and it gives them an opportunity to obtain spiritual guidance from the _sangha_ @mindful-way.
 
 /*
 Paragraph 4: Meditation
 */
-
-/*
-Paragraph 5: Vinaya
-*/
+Living in this simplistic and bare manner allows Buddhist followers to devote more time towards another crucial aspect of becoming an arhat: meditation. Members of the _sangha_ wake up early every day almost constantly practicing meditation @mindful-way.
 
 /*
 Paragraph 6: Sangha and Ultimate Goal
 - Connect meditation and vinaya to need for extensive meditation and ascetic discipline to become arhat
 */
 
-@mindful-way
-
-@smits
-
-@vinaya
