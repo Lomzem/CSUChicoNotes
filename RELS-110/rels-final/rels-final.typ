@@ -53,7 +53,7 @@ Drawing on the lecture, readings, and films, discuss:
 - Belief that after death, we reincarnate and continue to suffer
 - Goal: become an arhat: one who escapes cycle of samsara to attain nirvana, ending this suffering
 */
-Life is suffering. In Buddhism, it is believed that after death, people usually reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. People who successfully escape this reincarnation cycle of suffering and achieve _nirvana_ are known as _arhats_. However, performing this feat requires intense discipline and meditation. As a core stepping stone to obtaining nirvana, followers of Therevada Buddhism gather in communities called _sangha_ that provide environments to pursue discipline and _nirvana_ @smits[15].
+Life is suffering. In Buddhism, it is believed that after death, people reincarnate and continue to experience this constant suffering. Buddhists understand this concept and shape their lives around it. In fact, "the distinctive feature of early Buddhism is that it made suffering and its elimination the core issue" @smits[10]. People who successfully escape this reincarnation cycle of suffering and achieve _nirvana_ are known as _arhats_. However, performing this feat requires intense discipline and meditation. As a core stepping stone to obtaining nirvana, followers of Therevada Buddhism gather in communities called _sangha_ that provide environments to pursue discipline and _nirvana_ @smits[15].
 
 /* Paragraph 2: Sangha
 - What is the sangha?
@@ -79,7 +79,7 @@ Paragraph 3: Daily Life and Vinaya
 - Sangha can't spend as much time on things like growing their own food so they could prioritize meditation
 - Depend on laypeople to have more time for meditation
 */
-The _Vinaya_ essentially forces the members of the _sangha_ to depend on laypeople for the essential things they need to survive. While the _sangha_ discourages monks from obtaining food themselves, it does allot time every day for monks to beg for food from the laypeople. While this may initially seem parasitical, the laypeople openly welcome this interaction with the _sangha_. Providing for monks benefits laypeople spiritually, and it allows them to obtain spiritual guidance from the _sangha_ @mindful-way.
+The lifestyle described in the _Vinaya_ forces the members of the _sangha_ to depend on laypeople for the essential things they need to survive. While the _sangha_ discourages monks from obtaining food themselves, it does allot time every day for monks to beg for food from the laypeople. While this may initially seem parasitical, the laypeople openly welcome this interaction with the _sangha_. Providing for monks benefits laypeople spiritually, and it allows them to obtain spiritual guidance from the _sangha_ @mindful-way.
 
 /*
 Paragraph 4: Meditation
