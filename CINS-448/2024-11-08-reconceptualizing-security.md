@@ -1,7 +1,0 @@
-- Security is a feeling and a reality
-- Could feel secure even if not secure
-- Economically, security is a tradeoff
-- Main question in security: NOT will it make us safer; whether it's worth tradeoff
-- Tradeoffs are about more than just security
-- We're hopelessly bad at making tradeoffs
-- We respond to feeling of security and not reality
