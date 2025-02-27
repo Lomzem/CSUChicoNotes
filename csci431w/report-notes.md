@@ -3,6 +3,7 @@
 - Nuances, detail, replicable
 - More formal
     - No contractions
+    - Good to use first person (We performed task)
 
 ## Methods
 - Approaches we used to learn more about our users
@@ -27,3 +28,16 @@
     - Low-cost research methods
 - Limitations to our work
 
+# Executive Summary
+- Audience: Stakeholder (NOT UX specialist)
+- Purpose:
+    - Identify key takeaways
+    - Inform decisions going forward
+- Succinct
+- Lessons learned
+- Actionable
+- Emphasize key points
+- Address research methods in same order as Report
+- Bullet points are commonplace
+- Don't focus on "what did we do," focus on "what did we learn"
+    - Don't need to be full sentences
