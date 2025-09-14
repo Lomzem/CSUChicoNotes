@@ -1,0 +1,14 @@
+April Example
+
+```{r}
+mu <- 1500
+sd <- 300
+
+z <- (1630 - mu) / sd
+
+# P (Z > 0.43333) = 1 - P(Z < 0.43333)
+1 - pnorm(z)
+pnorm(z, lower.tail = FALSE)
+```
+
+

@@ -1,0 +1,55 @@
+---
+title: "l03"
+author: "lomzem"
+output: pdf_document
+---
+
+```{r}
+p.A <- 0.04
+p.B <- 0.08
+p.C <- 0.12
+```
+
+```{r}
+# A B C are independent
+p.success <- (1 - p.A) * (1 - p.B) * (1 - p.C)
+p.failure <- 1 - p.success
+# p.failure
+```
+
+```{r messages=FALSE}
+suppressMessages(library(arules))
+data(Groceries)
+arGroceries <- apriori(Groceries,
+  parameter = list(supp = 0.001, conf = 0.8)
+)
+inspect(head(arGroceries, n = 6))
+# Import from CSV version from URL
+url <- "https://raw.githubusercontent.com/njlytal/MATH314/main/groceries.csv"
+groceries <- read.csv(url)
+```
+
+ROW 2
+{curd & cereals} => {whole milk}
+
+support: P( curd & cereals & whole milk )
+
+```{r}
+sup.row2 <- mean(groceries$curd & groceries$cereals & groceries$whole.milk)
+sup.row2
+```
+
+confidence:
+
+```{r}
+conf.row2 <- sup.row2 / mean(groceries$curd & groceries$cereals)
+conf.row2
+```
+
+
+lift:
+
+```{r}
+lift.row2 <- conf.row2 / mean(groceries$whole.milk)
+lift.row2
+```

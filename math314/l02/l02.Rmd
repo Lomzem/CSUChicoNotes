@@ -1,0 +1,22 @@
+---
+title: "L02"
+author: "Lomzem"
+output: pdf_document
+---
+
+```{r}
+url <- "https://raw.githubusercontent.com/njlytal/MATH314/main/email.csv"
+email <- read.csv(url)
+```
+
+```{r}
+mean(email$spam & email$format) / mean(email$spam)
+```
+
+```{r}
+b_given_not_a <- 0.09
+B <- 0.453
+A <- 0.55
+not_A <- 1 - A
+b_given_a <- 0.75
+```

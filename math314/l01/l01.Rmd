@@ -1,0 +1,30 @@
+---
+title: "l01"
+author: "Lomzem"
+output: pdf_document
+---
+
+## Load Data
+
+```{r}
+speed <- read.csv("https://raw.githubusercontent.com/roualdes/data/master/speed.csv")
+tail(speed)
+```
+
+## Plotting
+
+```{r}
+library(ggplot2)
+library(dplyr)
+ggplot(
+  data = speed,
+  aes(year, mips / cores)
+) +
+  geom_point()
+```
+
+```{r}
+sd(speed$mips)
+```
+
+
