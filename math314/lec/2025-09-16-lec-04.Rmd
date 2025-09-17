@@ -1,0 +1,51 @@
+## Functions
+
+Simple mean function
+
+```{r}
+lazy.mean <- function(x) {
+  sum(x) / length(x)
+}
+```
+
+```{r}
+x <- 1:30
+```
+
+## optim
+
+`x` is the data set
+
+## Define log likelihood function
+
+```{r}
+ll.exp <- function(lambda, x) {
+  n <- length(x)
+  n * log(lambda) - lambda * sum(x)
+}
+```
+
+## Define dataset
+
+```{r}
+set.seed(400)
+data <- rexp(n = 10000, rate = 3)
+```
+
+
+## Find MLE
+
+par = starting vlaue(s) for parameter(s)
+
+```{r}
+optim(
+  par = 5, # starting parameter
+  fn = ll.exp,
+  method = "L-BFGS-B", # optimization method
+  lower = 1e-6, # lower bound
+  control = list(fnscale = -1), # maximize instead of minimize
+  x = data
+)
+```
+
+
