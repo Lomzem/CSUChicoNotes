@@ -1,0 +1,77 @@
+## Normal Distribution
+
+### Define Log Likelihood Function
+
+Need:
+- $\mu$ (mean) 
+- `sd` (standard deviation)
+
+$\theta = (\mu, \sigma)$
+
+```{r}
+ll.norm <- function(theta, x) {
+  n <- length(x)
+  mu <- theta[1]
+  sd <- theta[2]
+  print(-n / 2 * log(2 * pi * sd^2) - 1 / (2 * sd^2) * sum((x - mu)^2))
+}
+```
+
+## Generate Data
+
+```{r}
+set.seed(69420)
+data <- rnorm(1e4, mean = 3, sd = 2)
+head(data)
+```
+
+
+## Optimize using optim() to solve for MLE of each param
+
+```{r}
+optim(
+  par = c(0, 1),
+  fn = ll.norm,
+  method = "L-BFGS-B",
+  lower = c(-Inf, 1e-9),
+  control = list(fnscale = -1),
+  x = data
+)
+```
+
+
+## Weibull Distribution
+
+### Define Log Likelihood Function
+
+```{r}
+ll.weibull <- function(theta, x) {
+  n <- length(x)
+  lambda <- theta[1]
+  k <- theta[2]
+  n * log(k) - n * k * log(lambda) + (k - 1) * sum(log(x)) - sum((x / lambda)^k)
+}
+```
+
+### Generate Data
+
+```{r}
+set.seed(69420)
+data <- rweibull(1e6, scale = 69, shape = 420)
+head(data)
+```
+
+## Optimize using optim() to solve for MLE of each param
+
+```{r}
+optim(
+  par = c(1, 0),
+  fn = ll.weibull,
+  method = "L-BFGS-B",
+  lower = c(1e-9, 1e-9),
+  control = list(fnscale = -1),
+  x = data
+)
+```
+
+

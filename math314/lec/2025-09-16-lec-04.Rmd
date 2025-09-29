@@ -28,7 +28,7 @@ ll.exp <- function(lambda, x) {
 ## Define dataset
 
 ```{r}
-set.seed(400)
+set.seed(4)
 data <- rexp(n = 10000, rate = 3)
 ```
 
