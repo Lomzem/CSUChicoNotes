@@ -1,0 +1,62 @@
+## Obtain Data
+
+```{r}
+data <- mtcars
+```
+
+## Summary Statistics
+
+```{r}
+summary(data$mpg)
+```
+
+## Density
+
+```{r}
+# plot(density(data$mpg))
+```
+
+```{r}
+ggplot(data = data, aes(x = mpg)) +
+  geom_density()
+```
+
+
+
+```{r}
+mean(data$mpg)
+median(data$mpg)
+```
+
+Right Skew
+
+## Scatterplot
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+ggplot(
+  data = data,
+  aes(x = cyl, y = mpg)
+) +
+  geom_point()
+```
+
+## Boxplot
+
+```{r}
+ggplot(
+  data = mtcars,
+  aes(x = cyl, y = mpg, group = cyl)
+) +
+  geom_boxplot()
+```
+
+```{r}
+x <- 2
+```
+
+x is `r x`
+

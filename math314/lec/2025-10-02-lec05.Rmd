@@ -1,0 +1,11 @@
+```{r}
+temp <- rnorm(n = 50, mean = 85, sd = 5)
+mean(temp)
+```
+
+```{r}
+min(temp)
+max(temp)
+```
+
+
