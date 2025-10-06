@@ -1,0 +1,3 @@
+[submodule "csci551/numeric-parallel-starter-code"]
+	path = csci551/numeric-parallel-starter-code
+	url = https://github.com/sbsiewertcsu/numeric-parallel-starter-code
