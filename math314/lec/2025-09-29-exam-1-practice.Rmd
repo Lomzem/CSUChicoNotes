@@ -17,6 +17,12 @@ summary(data$mpg)
 ```
 
 ```{r}
+library(ggplot2)
+```
+
+
+
+```{r}
 ggplot(data = data, aes(x = mpg)) +
   geom_density()
 ```
