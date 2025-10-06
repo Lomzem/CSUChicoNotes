@@ -1,0 +1,72 @@
+```{r}
+install.packages("gridExtra")
+```
+
+```{r}
+library(ggplot2)
+```
+
+## Normal Distribution
+
+```{r}
+R <- 7000
+out <- rep(NA, R)
+for (i in 1:R) {
+  ## assume population
+  X <- rnorm(100, mean = 7, sd = 25)
+  out[i] <- mean(X) # samples from sampling distrib.
+}
+X <- rnorm(1e6, 7, 25) # "population" to compare
+pop_plot <- ggplot(data.frame(x = X), aes(x = x)) +
+  geom_histogram(bins = 30)
+sampdist_plot <- ggplot(data.frame(x = out), aes(x = x)) +
+  geom_histogram(bins = 30)
+```
+
+```{r}
+sampdist_plot
+```
+
+```{r}
+library(gridExtra)
+grid.arrange(pop_plot, sampdist_plot, nrow = 2)
+```
+
+## Exponential Distribution
+
+```{r}
+R <- 7000
+out <- rep(NA, R)
+for (i in 1:R) {
+  ## assume population
+  X <- rexp(100, 5)
+  out[i] <- mean(X) # samples from sampling distrib.
+}
+X <- rexp(1e6, 5) # "population"
+pop_plot <- ggplot(data.frame(x = X), aes(x = x)) +
+  geom_histogram(bins = 30)
+sampdist_plot <- ggplot(data.frame(x = out), aes(x = x)) +
+  geom_histogram(bins = 30)
+```
+
+```{r}
+library(gridExtra)
+grid.arrange(pop_plot, sampdist_plot, nrow = 2)
+```
+
+## Bernoulli
+
+```{r}
+pop_p <- 0.654
+R <- 7000
+out <- rep(NA, R)
+for (i in 1:R) {
+  ## assume population
+  X <- rbinom(100, 1, pop_p)
+  # Recall: Bias = E(Xbar) - population parameter
+  out[i] <- mean(X) - pop_p # Point estimates of Bias
+}
+mean(out)
+```
+
+
