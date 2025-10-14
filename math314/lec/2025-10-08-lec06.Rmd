@@ -1,0 +1,53 @@
+## Spark Plug Problem
+
+### Claim
+
+Average Lifetime = 28000
+
+### Hypotheses
+
+$H_0$: $\mu = 28000$
+
+$H_A$: $\mu < 28000$
+
+```{r}
+xbar <- 26040 # sample mean
+sigma <- 12894 # population stdev
+n <- 27 # sample size
+mu.0 <- 28000 # null value
+stderr <- sigma / sqrt(n)
+alpha <- 0.05 # significance level
+```
+
+## Analyze Data
+
+Find z-score
+
+```{r}
+z <- (xbar - mu.0) / stderr
+```
+
+```{r}
+pnorm(z)
+```
+
+## Web Browser Hypothesis Test
+
+```{r}
+p <- 0.99
+```
+
+```{r}
+n <- 1014
+phat <- 984 / n
+se <- sqrt(phat * (1 - phat) / n)
+alpha <- 0.05
+```
+
+```{r}
+zstar <- qnorm(1 - alpha / 2) # Critical Value
+me <- se * zstar
+conf_itv <- c(phat - me, phat + me)
+```
+
+

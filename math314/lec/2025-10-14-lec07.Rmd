@@ -1,0 +1,39 @@
+```{r}
+z <- (6.5 - 5.6) / (2.1 / sqrt(n))
+```
+
+```{r}
+p.value <- 2 * (1 - pnorm(z))
+```
+
+## 2 Sided Confidence Interval
+
+```{r}
+mu0 <- 5.6
+xbar <- 6.5
+sigma <- 2.1
+n <- 50
+se <- 2.1 / sqrt(n)
+alpha <- 0.01
+z <- (xbar - mu0) / (se / sqrt(n))
+```
+
+```{r}
+z.star <- qnorm(1 - alpha / 2)
+ME <- z.star * se
+(CI <- c(xbar - ME, xbar + ME))
+```
+
+```{r}
+(p.value <- 1 - pnorm(z))
+```
+
+## 1 Sided Upper Confidence Interval
+
+```{r}
+z.star <- qnorm(1 - alpha)
+ME <- z.star * se
+(CI <- c(xbar - ME, Inf))
+```
+
+

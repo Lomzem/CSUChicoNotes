@@ -1,0 +1,19 @@
+```{r}
+knitr::opts_chunk$set(fig.width = 4, fig.height = 3)
+```
+
+```{r}
+xbar <- 1.697
+# sample mean
+n <- 100
+# sample size
+alpha <- 0.01
+# 99% = 1 - 0.01
+se <- 0.088 / sqrt(n)
+# standard error
+z.star <- qnorm(1 - alpha / 2) # critical value
+ME <- se * z.star
+# margin of error
+c(xbar - ME, xbar + ME)
+# confidence interval (CI)
+```
