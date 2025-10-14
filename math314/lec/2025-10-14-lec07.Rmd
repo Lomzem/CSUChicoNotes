@@ -35,5 +35,3 @@ z.star <- qnorm(1 - alpha)
 ME <- z.star * se
 (CI <- c(xbar - ME, Inf))
 ```
-
-
