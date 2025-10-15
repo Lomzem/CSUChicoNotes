@@ -1,0 +1,67 @@
+# T Distribution
+
+## CodiMD Example
+
+```{r}
+qt(1 - 0.02 / 2, df = 18)
+```
+
+## Mercury Example
+
+Setup Knowns
+
+```{r}
+n <- 19 # sample size
+xbar <- 4.4 # sample mean
+s <- 2.3 # sample stdev
+alpha <- 0.05 # confidence level for 95% CI
+```
+
+### Two-Sided CI
+```{r}
+(sample_error <- s / sqrt(n)) # s_xbar
+(crit_value <- qt(1 - alpha / 2, n - 1)) # tstar
+(margin_error <- sample_error * crit_value) # ME
+(conf_itv <- c(xbar - margin_error, xbar + margin_error))
+```
+
+### One-Sided CI
+
+```{r}
+(sample_error <- s / sqrt(n)) # s_xbar
+(crit_value <- qt(1 - alpha, n - 1)) # tstar
+(margin_error <- sample_error * crit_value) # ME
+(conf_itv <- c(-Inf, xbar + margin_error))
+```
+
+## HT Example
+
+Setup Knowns
+
+```{r}
+mu0 <- 93.29 # population mean
+n <- 100 # sample size
+xbar <- 95.61 # sample mean
+s <- 15.78 # sample stdev
+alpha <- 0.05 # confidence level for 95% CI
+```
+
+Test no change. Two sided CI
+
+Null Hypothesis: mu = xbar
+Alternative Hypothesis: mu != xbar
+
+$t_\text{df}} = \frac{\bar{x} - \mu_0}{\frac{s}{\sqrt{n}}}$
+
+```{r}
+(t <- (xbar - mu0) / (s / sqrt(n))) # df = degree freedom
+(p_value <- 2 * (1 - pt(abs(t), n - 1))) # p-value
+```
+
+is p-value less than alpha?
+
+```{r}
+p_value < alpha
+```
+
+Fail to reject null hypothesis
