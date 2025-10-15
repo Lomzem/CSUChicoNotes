@@ -65,3 +65,12 @@ p_value < alpha
 ```
 
 Fail to reject null hypothesis
+
+### One-Sided Upper CI
+
+```{r}
+(t <- (xbar - mu0) / (s / sqrt(n))) # df = degree freedom
+(p_value <- 1 - pt(t, n - 1))
+```
+
+

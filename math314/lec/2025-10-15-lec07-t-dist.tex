@@ -272,4 +272,26 @@ is p-value less than alpha?
 
 Fail to reject null hypothesis
 
+\subsubsection{One-Sided Upper CI}\label{one-sided-upper-ci}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{(t }\OtherTok{\textless{}{-}}\NormalTok{ (xbar }\SpecialCharTok{{-}}\NormalTok{ mu0) }\SpecialCharTok{/}\NormalTok{ (s }\SpecialCharTok{/} \FunctionTok{sqrt}\NormalTok{(n))) }\CommentTok{\# df = degree freedom}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 1.470215
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{(p\_value }\OtherTok{\textless{}{-}} \DecValTok{1} \SpecialCharTok{{-}} \FunctionTok{pt}\NormalTok{(t, n }\SpecialCharTok{{-}} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.07233725
+\end{verbatim}
+
 \end{document}
