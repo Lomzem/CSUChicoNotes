@@ -40,4 +40,10 @@ me <- se * t.star
 c(phat - me, Inf)
 ```
 
+## Mean Chars per Email
+
+```{r}
+mean(email$num_char)
+```
+
 

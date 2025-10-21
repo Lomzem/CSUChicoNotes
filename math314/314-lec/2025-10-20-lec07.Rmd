@@ -1,0 +1,32 @@
+```{r}
+url <- "https://raw.githubusercontent.com/roualdes/data/master/email.csv"
+suppressMessages(email <- read.csv(url))
+head(email)
+```
+
+```{r}
+xbar <- mean(email$num_char)
+s <- sd(email$num_char)
+n <- length(email$num_char)
+alpha <- 0.05
+se <- s / sqrt(n)
+t.star <- qt(1 - alpha, n - 1)
+ME <- se * t.star
+c(-Inf, xbar + ME)
+```
+
+## Lightbulb
+
+```{r}
+mu <- 12000
+n <- 64
+xbar <- 11297
+s <- 2418
+alpha <- (1 - 0.87)
+se <- s / sqrt(n)
+tstar <- qt(1 - alpha / 2, n - 1)
+me <- se * tstar
+c(xbar - me, xbar + me)
+```
+
+

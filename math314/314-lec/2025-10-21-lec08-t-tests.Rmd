@@ -1,0 +1,36 @@
+```{r}
+books <- read.csv("https://raw.githubusercontent.com/njlytal/MATH314/main/books.csv")
+```
+
+```{r}
+suppressMessages(library(ggplot2))
+ggplot(
+  data = books,
+  aes(uclaNew - amazNew)
+) +
+  geom_boxplot()
+```
+
+```{r}
+diff <- books$uclaNew - books$amazNew
+xbar <- mean(diff)
+n <- length(diff)
+df <- n - 1
+alpha <- 0.05
+```
+
+```{r}
+tstar <- qt(1 - alpha / 2, n - 1) # critical value
+stderr <- sd(diff) / sqrt(n) # sd(diff) == sample stdev
+margin_err <- tstar * stderr
+ci <- c(xbar - margin_err, xbar + margin_err)
+```
+
+## Hypothesis Test (t-test), 2-sided
+
+```{r}
+t <- (mean(diff) - 0) / stderr
+(p_value <- 2 * (1 - pt(abs(t), n - 1)))
+```
+
+
