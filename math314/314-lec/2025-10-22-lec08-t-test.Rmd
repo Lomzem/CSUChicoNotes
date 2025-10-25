@@ -1,0 +1,41 @@
+```{r}
+library(ape)
+library(dplyr)
+data(carnivora)
+```
+
+
+
+```{r}
+x <- c(1:8, NA, 10)
+```
+
+```{r}
+(
+  d <- carnivora %>%
+    select(SuperFamily, SW) %>%
+    na.omit() %>%
+    group_by(SuperFamily) %>%
+    summarise(n = n(), v = var(SW), xbar = mean(SW))
+)
+```
+
+## Example
+
+```{r}
+alpha <- 0.05
+xbarC <- d$xbar[1]
+xbarF <- d$xbar[2]
+diff <- (xbarC - xbarF)
+# difference of means
+nC <- d$n[1]
+nF <- d$n[2]
+vC <- d$v[1]
+vF <- d$v[2]
+t.star <- qt(1 - alpha / 2, df = min(c(nC, nF) - 1))
+se <- sqrt(vC / nC + vF / nF)
+ME <- t.star * se
+(ci <- c(diff - ME, diff + ME))
+```
+
+
