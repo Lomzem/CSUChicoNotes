@@ -1,0 +1,22 @@
+```{r}
+classes <- read.csv("https://raw.githubusercontent.com/njlytal/MATH314/main/classes.csv")
+```
+
+```{r}
+xbar1 <- mean(classes$class1)
+xbar2 <- mean(classes$class2)
+
+n1 <- length(classes$class1)
+n2 <- length(classes$class2)
+
+s1 <- sd(classes$class1)
+s2 <- sd(classes$class2)
+
+se <- sqrt(s1^2/n1 + s2^2/n2)
+alpha <- 0.05
+tstar <- qt(1 - alpha/2, df = min(n1, n2) - 1)
+me <- se * tstar
+
+diffmean <- xbar2 - xbar1
+(ci <- c(diffmean - me, diffmean + me))
+```
