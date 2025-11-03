@@ -1,0 +1,74 @@
+## Problem 1
+
+```{r}
+alpha <- 0.02
+t <- (-2.373)
+n <- 28
+pvalue <- 2 * (1 - pt(abs(t), n - 1))
+pvalue
+pvalue < alpha
+```
+
+## Problem 2
+
+```{r}
+energy <- read.csv("./data/energy.csv")
+```
+
+### A: Plot Data
+
+```{r}
+hist(energy$usage)
+```
+
+```{r}
+library(ggplot2)
+ggplot(energy, aes(x = usage)) +
+  geom_histogram(bins = 10)
+```
+
+### B: Relevant Variables
+
+```{r}
+# Population
+mu <- 909
+sigma <- 105
+
+# Sample
+alpha <- 0.05
+xbar <- mean(energy$usage)
+n <- length(energy$usage)
+s <- sd(energy$usage)
+
+xbar
+s
+```
+
+### C: Confidence Interval
+
+```{r}
+zstar <- 1 - qnorm(1 - alpha)
+```
+
+
+
+### D: Hypothesis Test
+
+$H_0$: $\mu = 909$
+
+$H_1$: $\mu > 909$
+
+```{r}
+alpha <- 0.05
+
+stderr <- sigma / sqrt(n)
+z <- (xbar - mu) / stderr
+z
+
+pvalue <- 1 - pnorm(z)
+pvalue
+
+pvalue < alpha
+```
+
+

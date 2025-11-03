@@ -1,0 +1,67 @@
+---
+title: "Exam 2 Prep"
+---
+
+## Paired Data
+
+### Data Loading
+
+```{r}
+cholesterol <- read.csv(file = "./data/cholesterol.csv")
+colnames(cholesterol)
+```
+
+```{r}
+library(ggplot2)
+```
+
+### Scatterplot
+
+```{r}
+ggplot(cholesterol, aes(x = before, y = after)) +
+  geom_smooth()
+```
+
+### Histogram
+
+```{r}
+ggplot(cholesterol, aes(x = after - before)) +
+  geom_histogram(bins = 10)
+```
+
+### Boxplot
+
+```{r}
+ggplot(cholesterol, aes(x = after - before)) +
+  geom_boxplot()
+```
+
+### Density Plot
+
+```{r}
+ggplot(cholesterol, aes(x = after - before)) +
+  geom_density()
+```
+
+### Hypothesis Testing
+
+$H_0$: $\mu_{\text{diff}} = 0$
+
+$H_1$: $\mu_{\text{diff}} \neq 0$
+
+$t$ = $\frac{\overline{X_{\text{diff}}} - \mu_{\text{diff}}}{s_{\text{diff}} / \sqrt{n}}$
+
+```{r}
+xdiff <- mean(cholesterol$after - cholesterol$before)
+sdiff <- sd(cholesterol$after - cholesterol$before)
+n <- length(cholesterol$after)
+mu0 <- 0
+
+alpha <- 0.05
+
+(t <- (xdiff - mu0) / (sdiff / sqrt(n)))
+
+t < alpha
+```
+
+

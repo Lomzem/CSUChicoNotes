@@ -1,0 +1,24 @@
+## Problem 4
+
+```{r}
+set.seed(67)
+data <- rexp(n = 20, rate = 5)
+```
+
+```{r}
+library(ggplot2)
+hist(data)
+```
+
+```{r}
+R <- 1e4
+out <- rep(NA, R)
+for (i in 1:R) {
+  data <- rexp(n = 1e4, rate = 5)
+  out[i] <- mean(data)
+}
+
+hist(out)
+```
+
+
