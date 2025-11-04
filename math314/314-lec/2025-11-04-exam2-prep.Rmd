@@ -1,0 +1,59 @@
+## Email Line Breaks
+
+```{r}
+email <- read.csv("https://raw.githubusercontent.com/roualdes/data/master/email.csv")
+```
+
+### A: Plotting
+
+```{r}
+hist(email$line_breaks)
+```
+
+### B: Relevant Variables
+
+```{r}
+n <- length(email$line_breaks)
+mean <- mean(email$line_breaks)
+s <- sd(email$line_breaks)
+```
+
+### C: Confidence Interval
+
+Two sided 95% CI
+
+```{r}
+alpha <- 0.05
+stderr <- s / sqrt(n)
+tstar <- qt(1 - alpha / 2, n - 1) # two-sided
+margin_err <- stderr * tstar
+
+ci <- c(mean - margin_err, mean + margin_err)
+ci
+```
+
+### D: Hypothesis Test
+
+$H_0$: $\mu = 250$
+
+$H_1$: $\mu \neq 250$
+
+```{r}
+mu <- 250
+t <- (mean - mu) / stderr
+t
+
+pvalue <- 2 * (1 - pt(abs(t), n - 1))
+pvalue
+
+pvalue < alpha
+```
+
+### E: Conclusion
+
+Reject $H_0$ at the `r alpha * 100`% level.
+
+### F: Practical Conclusion
+
+There is strong evidence that the population mean number of line
+breaks is not `r mu`.
