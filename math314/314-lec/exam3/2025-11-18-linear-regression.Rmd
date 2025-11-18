@@ -1,0 +1,16 @@
+```{r}
+finches <- read.csv("https://raw.githubusercontent.com/njlytal/MATH314/main/finches.csv")
+colnames(finches)
+```
+
+```{r}
+hist(finches$beakheight)
+```
+
+```{r}
+model <- lm(winglength~middletoelength, data = finches)
+
+anova(model)
+```
+
+

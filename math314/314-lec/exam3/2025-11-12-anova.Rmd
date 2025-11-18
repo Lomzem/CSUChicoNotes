@@ -42,6 +42,8 @@ null hypothesis.
 
 ## Anova Example 2: Carnivora
 
+### Obtain Data
+
 ```{r}
 suppressMessages({library(ape)
 library(dplyr)
@@ -60,12 +62,39 @@ carnivs <- filter(carnivora,
 "Procyonidae",
 "Viverridae")))
 head(carnivs)
-```
 
-```{r}
 # Run anova
 mod <- lm(SB~Family, data=carnivs)
 anova(mod)
 ```
 
+### Plot the Data
+
+```{r}
+p <- ggplot(carnivs, aes(Family, SB)) +
+geom_point() +
+stat_summary(fun=mean, colour="red",
+geom="point", size=4) +
+labs(y="Brain Weight")
+p
+```
+
+### Coefficients
+
+Calling the function `coefficients` on the linear model returns
+the intercept and $k − 1$ values $\beta_j$
+
+```{r}
+coefficients(mod)
+
+# Compare coefficients to group means
+carnivs %>%
+    group_by(Family) %>%
+    summarise(m=mean(SB))
+
+# Retriece fitted values
+yhat <- fitted(mod)
+head(yhat)
+tail(yhat)
+```
 
