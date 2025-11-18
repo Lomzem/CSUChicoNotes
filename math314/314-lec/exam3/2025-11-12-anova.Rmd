@@ -1,0 +1,71 @@
+## Anova Example 1
+
+### Plot the Data
+
+```{r}
+suppressMessages(library(ggplot2))
+mlb <- read.csv("https://raw.githubusercontent.com/roualdes/data/master/mlb.csv")
+p <- ggplot(data=mlb, aes(x=position, y=salary)) +
+geom_boxplot() +
+theme(axis.text.x=element_text(angle=45, hjust=1))
+p
+```
+
+### Linear Model
+
+The `lm` function creates a fitted linear model from the
+given variables and data set.
+
+The `anova` function performs analysis of variance on the resulting
+linear model object
+
+```{r}
+model <- lm(salary~position, data=mlb)
+model
+res <- anova(model)
+res
+```
+
+```{r}
+# Ensure that the position variable is a factor
+is.factor(mlb[,"position"])
+```
+
+```{r}
+alpha <- 0.05
+
+res$"Pr(>F)"[1] < alpha
+```
+
+Because p-value is less than $alpha$=`r alpha`, we reject the
+null hypothesis.
+
+## Anova Example 2: Carnivora
+
+```{r}
+suppressMessages({library(ape)
+library(dplyr)
+library(ggplot2)
+data(carnivora)})
+```
+
+```{r}
+# Filter down to just 5 families
+
+data(carnivora)
+
+# Remove 3 families
+carnivs <- filter(carnivora,
+!(Family %in% c("Ailuridae",
+"Procyonidae",
+"Viverridae")))
+head(carnivs)
+```
+
+```{r}
+# Run anova
+mod <- lm(SB~Family, data=carnivs)
+anova(mod)
+```
+
+
