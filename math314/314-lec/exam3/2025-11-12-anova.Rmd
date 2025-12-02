@@ -5,9 +5,9 @@
 ```{r}
 suppressMessages(library(ggplot2))
 mlb <- read.csv("https://raw.githubusercontent.com/roualdes/data/master/mlb.csv")
-p <- ggplot(data=mlb, aes(x=position, y=salary)) +
-geom_boxplot() +
-theme(axis.text.x=element_text(angle=45, hjust=1))
+p <- ggplot(data = mlb, aes(x = position, y = salary)) +
+  geom_boxplot() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 p
 ```
 
@@ -20,7 +20,7 @@ The `anova` function performs analysis of variance on the resulting
 linear model object
 
 ```{r}
-model <- lm(salary~position, data=mlb)
+model <- lm(salary ~ position, data = mlb)
 model
 res <- anova(model)
 res
@@ -28,7 +28,7 @@ res
 
 ```{r}
 # Ensure that the position variable is a factor
-is.factor(mlb[,"position"])
+is.factor(mlb[, "position"])
 ```
 
 ```{r}
@@ -45,10 +45,12 @@ null hypothesis.
 ### Obtain Data
 
 ```{r}
-suppressMessages({library(ape)
-library(dplyr)
-library(ggplot2)
-data(carnivora)})
+suppressMessages({
+  library(ape)
+  library(dplyr)
+  library(ggplot2)
+  data(carnivora)
+})
 ```
 
 ```{r}
@@ -57,14 +59,18 @@ data(carnivora)})
 data(carnivora)
 
 # Remove 3 families
-carnivs <- filter(carnivora,
-!(Family %in% c("Ailuridae",
-"Procyonidae",
-"Viverridae")))
+carnivs <- filter(
+  carnivora,
+  !(Family %in% c(
+    "Ailuridae",
+    "Procyonidae",
+    "Viverridae"
+  ))
+)
 head(carnivs)
 
 # Run anova
-mod <- lm(SB~Family, data=carnivs)
+mod <- lm(SB ~ Family, data = carnivs)
 anova(mod)
 ```
 
@@ -72,10 +78,12 @@ anova(mod)
 
 ```{r}
 p <- ggplot(carnivs, aes(Family, SB)) +
-geom_point() +
-stat_summary(fun=mean, colour="red",
-geom="point", size=4) +
-labs(y="Brain Weight")
+  geom_point() +
+  stat_summary(
+    fun = mean, colour = "red",
+    geom = "point", size = 4
+  ) +
+  labs(y = "Brain Weight")
 p
 ```
 
@@ -89,12 +97,33 @@ coefficients(mod)
 
 # Compare coefficients to group means
 carnivs %>%
-    group_by(Family) %>%
-    summarise(m=mean(SB))
+  group_by(Family) %>%
+  summarise(m = mean(SB))
 
 # Retriece fitted values
 yhat <- fitted(mod)
 head(yhat)
 tail(yhat)
 ```
+
+### Residuals
+
+a.k.a. errors
+
+$\epsilon_i$ is theoretical/random error in statistical
+models.
+
+$e_i = y_i - \hat{y}_i$ is the residual after observation and
+fitting.
+
+Similar to how $X$ is random variable not yet observed.
+
+$x$ is the observed random variable.
+
+```{r}
+res <- residuals(mod)
+head(res)
+tail(res)
+```
+
 

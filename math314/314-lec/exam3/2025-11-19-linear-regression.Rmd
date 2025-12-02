@@ -1,0 +1,22 @@
+## Elmhurst Example
+
+### Obtain Data
+
+```{r}
+url <- "https://raw.githubusercontent.com/roualdes/data/master/elmhurst.csv"
+elmhurst <- read.csv(url)
+head(elmhurst)
+elmReg <- lm(gift_aid ~ family_income, data = elmhurst)
+
+income <- data.frame(family_income = seq(from = 0, to = 250, by = 25))
+
+income.mil <- data.frame(family_income = 1000)
+predict.lm <- lm(elmReg, income)
+```
+
+```{r}
+df <- data.frame(e = rstandard(elmReg))
+yhat <- fitted(elmReg)
+```
+
+

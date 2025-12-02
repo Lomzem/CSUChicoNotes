@@ -1,0 +1,37 @@
+## Get Data
+
+```{r}
+suppressMessages(library(ape))
+library(dplyr)
+data(carnivora)
+carnivs <- filter(
+  carnivora,
+  Family %in% c(
+    "Canidae",
+    "Felidae",
+    "Mustelidae"
+  )
+)
+```
+
+```{r}
+colnames(carnivs)
+```
+
+
+
+QUESTION: Plot a BOXPLOT that shows how adult weight (SW) varies by Family.
+Then plot a scatter plot that show how adult weight (SW) depends on birth
+weight (BW). Please list your code below:
+
+```{r}
+library(ggplot2)
+
+# Boxplot
+ggplot(carnivs, aes(x = Family, y = SW)) +
+  geom_boxplot()
+
+# Scatterplot
+ggplot(carnivs, aes(x = BW, y = SW)) +
+  geom_point()
+```

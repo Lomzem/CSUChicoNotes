@@ -8,7 +8,7 @@ hist(finches$beakheight)
 ```
 
 ```{r}
-model <- lm(winglength~middletoelength, data = finches)
+model <- lm(winglength ~ middletoelength, data = finches)
 
 anova(model)
 ```
