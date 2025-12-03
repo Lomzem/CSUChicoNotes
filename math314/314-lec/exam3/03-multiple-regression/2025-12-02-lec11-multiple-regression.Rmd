@@ -18,8 +18,6 @@ carnivs <- filter(
 colnames(carnivs)
 ```
 
-
-
 QUESTION: Plot a BOXPLOT that shows how adult weight (SW) varies by Family.
 Then plot a scatter plot that show how adult weight (SW) depends on birth
 weight (BW). Please list your code below:
@@ -35,3 +33,29 @@ ggplot(carnivs, aes(x = Family, y = SW)) +
 ggplot(carnivs, aes(x = BW, y = SW)) +
   geom_point()
 ```
+
+## Example 1: RFFT Score
+
+### Model 1: RFFF vs Static Use
+
+```{r}
+prevend.samp <- read.csv("https://raw.githubusercontent.com/njlytal/MATH315/main/prevend.samp.csv", header = T)
+colnames(prevend.samp)
+```
+
+```{r}
+lm(RFFT ~ Statin, data = prevend.samp)
+prevend.samp$Statin <- factor(prevend.samp$Statin,
+  levels = c(0, 1),
+  labels = c("NonUser", "User")
+)
+head(prevend.samp)
+```
+
+### Model 2: RFFT Score vs. Statin Use AND Age
+
+```{r}
+lm(RFFT ~ Statin + Age, data = prevend.samp)
+```
+
+
