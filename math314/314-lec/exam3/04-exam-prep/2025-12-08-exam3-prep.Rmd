@@ -1,0 +1,96 @@
+```{r}
+data(iris)
+head(iris)
+```
+
+### Testing
+
+```{r}
+summary(
+  lm(Petal.Width ~ Species + Species:Petal.Length, data = iris)
+)
+
+summary(
+  lm(Petal.Width ~ Species * Petal.Length, data = iris)
+)
+```
+
+
+### Way 1: Categorical * Numerical
+
+```{r}
+way1 <- lm(Petal.Width ~ Species * Petal.Length, data = iris)
+summary(way1)
+```
+
+Notes:
+- Gives slope for **baseline** group.
+- Adjustment terms to _slope_ and the _intercept_ for the other groups.
+
+### Way 2: Categorical + Numerical + Categorical:Numerical
+
+```{r}
+way2 <- lm(Petal.Width ~ Species + Petal.Length + Species:Petal.Length, data = iris)
+summary(way2)
+```
+
+Notes:
+- Exactly the same as way 1
+
+
+### Way 3: Categorical + Categorical:Numerical
+
+```{r}
+way3 <- lm(Petal.Width ~ Species + Species:Petal.Length, data = iris)
+summary(way3)
+```
+
+Notes:
+- Separate slope terms for each category.
+- Adjustment terms to intercept but _not_ to slope.
+- No initial slope, just absolute slopes
+
+
+### No Interaction Terms: Categorical + Numerical
+
+- Different lines from previous models
+- Different intercepts, but same slope for all 3 lines
+- Not the same equations as above
+
+```{r}
+way.noint <- lm(Petal.Width ~ Species, data = iris)
+summary(way.noint)
+```
+
+
+## Model Selection
+
+```{r}
+finches <- read.csv("https://raw.githubusercontent.com/njlytal/MATH314/main/finches.csv")
+str(finches)
+```
+
+**Goal**: Create a model to predict winglength based on all numerical vars
+
+```{r}
+model <- lm(
+  winglength ~ taillength +
+    beakwidth + beakwidth +
+    beakheight + lowerbeaklength +
+    upperbeaklength + tarsuslength +
+    middletoelength,
+  data = finches
+)
+summary(model)
+```
+
+```{r}
+model <- lm(
+  winglength ~ taillength +
+    beakheight,
+  data = finches
+)
+summary(model)
+```
+
+

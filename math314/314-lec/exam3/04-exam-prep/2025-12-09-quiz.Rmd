@@ -1,0 +1,28 @@
+```{r}
+# Load data
+data(PlantGrowth)
+
+# Get column names and datatypes
+str(PlantGrowth)
+```
+
+## Plot
+
+```{r}
+library(ggplot2)
+ggplot(PlantGrowth, aes(group, weight)) +
+  geom_boxplot()
+```
+
+```{r}
+k <- 3
+n <- length(PlantGrowth$weight)
+n - k
+```
+
+```{r}
+model <- lm(weight ~ group, data = PlantGrowth)
+anova(model)
+```
+
+
