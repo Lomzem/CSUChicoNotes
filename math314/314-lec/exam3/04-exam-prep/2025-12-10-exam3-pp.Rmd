@@ -1,0 +1,74 @@
+```{r}
+library(ggplot2)
+```
+
+## Load Data
+
+```{r}
+data(mpg)
+str(mpg)
+```
+
+## Convert Numerical Variables to Factors
+
+```{r}
+data(mpg)
+mpg$cyl <- as.factor(mpg$cyl)
+str(mpg)
+```
+
+## Model
+
+Predict _city mpg_ based on _number of cylinders_
+
+```{r}
+model <- lm(cty ~ cyl, data = mpg)
+summary(model)
+```
+
+## Plot
+
+```{r}
+ggplot(data = mpg, aes(x = cyl, y = cty)) +
+  geom_boxplot()
+```
+
+## Pairwise Comparison
+
+```{r}
+k <- length(unique(mpg$cyl))
+k
+
+K <- choose(k, 2)
+K
+
+alpha <- 0.05
+astar <- alpha / K
+astar
+```
+
+```{r}
+library(dplyr)
+cyl45 <- filter(mpg, cyl %in% c(4, 5))
+# Perform t-test
+t45 <- t.test(cty ~ cyl, data = cyl45, conf.level = 1 - astar)
+t45
+```
+
+Cannot conclude that there is a difference in mean city mpg between 4 and 5 cylinders.
+
+Fail to reject the null hypothesis.
+
+## Linear Model Interpretation
+
+hwy miles of 6-cylinder cars
+
+```{r}
+# No Interaction
+model <- lm(hwy ~ cyl + cty, data = mpg)
+summary(model)
+intercept <- coefficients(model)["(Intercept)"]
+cyl6adjustment <- coefficients(model)["cyl6"]
+intercept + cyl6adjustment
+```
+
